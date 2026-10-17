@@ -4,6 +4,8 @@ Turn everyday nature into companions to collect and share. Nature Relay helps st
 
 Team: Tomoki, Gina, Apryl and Rion.
 
+[Devpost project](https://devpost.com/software/nature-relay) — submitted to De Anza Hackathon 5.0.
+
 ## Try it
 
 Public browser app: [Nature Relay](https://midori11111111.github.io/nature-relay/).
