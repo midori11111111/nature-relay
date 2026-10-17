@@ -8,6 +8,8 @@ Team: Tomoki, Gina, Apryl and Rion.
 
 Public browser app: [Nature Relay](https://midori11111111.github.io/nature-relay/).
 
+[Watch the 68-second demo](https://midori11111111.github.io/nature-relay/media/nature-relay-demo.mp4). The camera sequence is labeled as a concept; see [demo notes and credits](demo/README.md).
+
 The browser app is in `web/dist` and needs no build step or API key:
 
 ```sh
