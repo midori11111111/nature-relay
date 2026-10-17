@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173e32">
+  <meta name="description" content="Find a little nature in your everyday. Explore California wildlife, meet their characters, and keep a private collection of your discoveries.">
+  <title>Nature Relay — Your field journal</title>
+  <link rel="icon" href="assets/icon.png">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="stylesheet" href="vendor/leaflet.css">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="vendor/leaflet.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#map" aria-label="Nature Relay home"><img src="assets/logo.png" alt="Nature Relay"></a>
+    <nav class="desktop-nav" aria-label="Main navigation">
+      <button class="nav-item active" data-view="map"><span data-icon="map"></span>Explore</button>
+      <button class="nav-item" data-view="journal"><span data-icon="book"></span>Journal <span class="nav-count" data-saved-count>20</span></button>
+    </nav>
+    <div class="top-actions"><button class="icon-button about-button" aria-label="About Nature Relay"><span data-icon="info"></span></button><button class="button button-light add-button"><span data-icon="plus"></span><span>Add a discovery</span></button></div>
+  </header>
+
+  <main>
+    <section id="map-view" class="map-view" aria-label="Explore nature">
+      <aside class="explore-panel">
+        <div class="panel-intro"><p class="eyebrow"><span class="tiny-leaf"></span>YOUR EVERYDAY, REDISCOVERED</p><h1>A little closer<br>to nature.</h1><p class="intro-copy">Meet the small wonders hiding in plain sight. Find one. Save it. Pass the discovery on.</p></div>
+        <label class="search-wrap"><span data-icon="search"></span><input id="search" type="search" placeholder="A flower, a bird, a place…" autocomplete="off" aria-label="Search species and places"><kbd>/</kbd></label>
+        <div class="category-filters" id="category-filters" aria-label="Filter by category"></div>
+        <div class="list-heading"><h2>Out there, somewhere</h2><span id="result-count">Loading…</span></div>
+        <div id="discovery-list" class="discovery-list"><div class="loading-state">Opening your field guide…</div></div>
+        <p class="archive-note"><span data-icon="pin"></span>California observation archive · approximate places, original observation dates.</p>
+      </aside>
+      <div class="map-canvas-wrap">
+        <div id="map" aria-label="Map of California nature observations"></div>
+        <div id="map-fallback" class="map-fallback" hidden><span data-icon="map"></span><h2>The map needs a connection.</h2><p>Your field guide and Journal still work. Choose a species from the list.</p></div>
+        <div class="map-caption"><span class="live-dot"></span><span>California field notes</span></div>
+        <div class="map-controls"><button id="fit-map" class="map-control" aria-label="Show all observations" title="Show all observations"><span data-icon="expand"></span></button><button id="locate-map" class="map-control" aria-label="Center map near me" title="Center near me"><span data-icon="locate"></span></button></div>
+        <div class="map-hint"><img src="assets/icon.png" alt=""><div><strong>Every little character has a story.</strong><span>Tap one to meet the real living thing.</span></div></div>
+      </div>
+    </section>
+
+    <section id="journal-view" class="journal-view" hidden aria-label="Your Journal">
+      <div class="journal-header"><div><p class="eyebrow">A COLLECTION OF SMALL WONDERS</p><h1>Your field journal.</h1><p>Little encounters. Stories worth keeping.</p></div><div class="journal-counter"><strong data-saved-count>20</strong><span>discoveries<br>in your collection</span></div></div>
+      <div class="journal-toolbar"><div class="journal-filters" role="group" aria-label="Journal filter"><button class="journal-filter active" data-journal-filter="all">All discoveries</button><button class="journal-filter" data-journal-filter="personal">My photos</button></div><button class="text-button" id="starter-info"><span data-icon="info"></span>About the starter collection</button></div>
+      <div id="journal-grid" class="journal-grid"></div>
+      <div class="journal-footer"><span data-icon="lock"></span><p>Your Journal stays in this browser. Your photos are never uploaded. Clearing browser data removes your saved collection.</p></div>
+    </section>
+  </main>
+
+  <nav class="bottom-nav" aria-label="Mobile navigation"><button class="active" data-view="map"><span data-icon="map"></span><span>Explore</span></button><button class="mobile-add add-button" aria-label="Add a discovery"><span data-icon="plus"></span></button><button data-view="journal"><span data-icon="book"></span><span>Journal <span data-saved-count>20</span></span></button></nav>
+
+  <dialog id="detail-dialog" class="detail-dialog" aria-label="Discovery details"><button class="dialog-close" data-close aria-label="Close discovery"><span data-icon="close"></span></button><div id="detail-content"></div></dialog>
+
+  <dialog id="add-dialog" class="add-dialog" aria-labelledby="add-title"><button class="dialog-close" data-close aria-label="Close add discovery"><span data-icon="close"></span></button><div class="add-inner"><p class="eyebrow">SOMETHING CAUGHT YOUR EYE?</p><h2 id="add-title">Keep the encounter.</h2><p class="dialog-intro">A photo, a name, a little character. Make a memory of the nature around you.</p><form id="add-form"><label class="photo-drop" id="photo-drop"><input type="file" id="photo-input" accept="image/*" capture="environment" required><img id="photo-preview" alt="Your selected discovery" hidden><span class="photo-prompt"><span data-icon="camera"></span><strong>Take or choose a photo</strong><small>Stored privately on this device</small></span></label><label class="field-label" for="species-select">Which living thing did you find?</label><select id="species-select" required><option value="">Choose a species…</option></select><p class="field-hint">Choose the species yourself. Your companion artwork comes from our collection; this version does not identify or generate characters live.</p><div id="match-preview" class="match-preview" hidden></div><label class="field-label" for="entry-note">A little field note <span>(optional)</span></label><input id="entry-note" type="text" maxlength="180" placeholder="By the library, on my way to class…"><div class="location-row"><span data-icon="pin"></span><div><strong id="photo-location-label">No location attached</strong><small>Your photo's GPS is not read or published.</small></div><button type="button" id="add-location" class="text-button">Use my location</button></div><p id="add-error" class="form-error" role="alert" hidden></p><button type="submit" id="save-entry" class="button button-green full-width"><span data-icon="book"></span>Save to my Journal</button><p class="private-caption"><span data-icon="lock"></span>Private to this browser · no account needed</p></form></div></dialog>
+
+  <dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><button class="dialog-close" data-close aria-label="Close information"><span data-icon="close"></span></button><div class="about-inner"><img class="about-icon" src="assets/icon.png" alt="Nature Relay leaf companions"><p class="eyebrow">LOOK A LITTLE CLOSER</p><h2 id="about-title">Nature is a good<br>conversation starter.</h2><p>Nature Relay turns everyday plants and animals into characters you can discover, collect, and share with a friend. A little curiosity can make a familiar place feel new.</p><div class="about-rule"></div><h3>In this web version</h3><ul><li>Explore real California observation records, original photos, and species characters.</li><li>Save characters to a private Journal, or add a photo and choose its species yourself.</li><li>Share a link to a species with a friend. Journals do not sync between devices.</li></ul><h3>A few honest field notes</h3><p>The map is an archive, not a live wildlife tracker. Locations are approximate and sightings may be historical. The starter collection contains examples, not observations made by you. Character art is AI-created and prepared in advance; live identification and live character generation are not connected here.</p><h3>Your photos stay with you</h3><p>Photos you add are resized and stored in this browser. They are never uploaded by this app. Optional location is used only when you choose it. Map tiles are served by OpenStreetMap; photo credits and licenses appear on every archive entry. <a href="credits.html" target="_blank" rel="noopener">View all credits and licenses ↗</a></p><p class="nature-etiquette">Enjoy from a little distance. Stay on paths, leave plants where they grow, and give wildlife space.</p></div></dialog>
+
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <noscript><p class="noscript">Nature Relay needs JavaScript to open the map and Journal.</p></noscript>
+</body>
+</html>

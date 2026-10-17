@@ -1,0 +1,1030 @@
+{
+  "schemaVersion": 1,
+  "retrievedAt": "2026-10-17",
+  "package": "Nature Relay species companions",
+  "imageGeneration": "No image generation service was used. Stock vector art is credited as stock; custom paths were drawn in SVG code.",
+  "identificationPolicy": "Companions are stylized illustrations. Only the source photo and source observation provide identification evidence. Shared type characters are explicitly marked and do not claim species-level accuracy.",
+  "attribution": "Twemoji graphics © Twitter, Inc. and other contributors, CC BY 4.0. Modified by Nature Relay. https://github.com/twitter/twemoji/tree/v14.0.2; https://creativecommons.org/licenses/by/4.0/. Original Nature Relay vector paths are dedicated to CC0 1.0.",
+  "sourcePackageURL": "https://github.com/twitter/twemoji/tree/v14.0.2",
+  "assets": [
+    {
+      "id": "barrel-cactus",
+      "title": "Barrel cactus companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "One rounded ribbed stem with spines and a warm yellow bloom.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "bear-dark",
+      "title": "Bear dark type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f43b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "bird-black",
+      "title": "Bird black type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f426.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "bird-blue",
+      "title": "Bird blue type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f426.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "bird-brown",
+      "title": "Bird brown type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f426.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "bird-gray",
+      "title": "Bird gray type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f426.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "bird-yellow",
+      "title": "Bird yellow type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f426.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "blue-dicks",
+      "title": "Blue dicks companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Violet star-flower cluster on a tall stem.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "butterfly-cream",
+      "title": "Butterfly cream type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f98b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "butterfly-dark",
+      "title": "Butterfly dark type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f98b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "butterfly-orange",
+      "title": "Butterfly orange type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f98b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "butterfly-red",
+      "title": "Butterfly red type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f98b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "butterfly-yellow",
+      "title": "Butterfly yellow type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f98b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. Color is a broad family cue; it does not reproduce species-specific markings.",
+      "modifications": "Recolored the stock vector; added a white sticker edge and transparent padding."
+    },
+    {
+      "id": "california-fuchsia",
+      "title": "California fuchsia companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Coral tubular blooms and narrow leaves.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "california-poppy",
+      "title": "California poppy companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Four-petal orange cup; simplified green leaves.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "california-wild-rose",
+      "title": "California wild rose companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f33c.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "Five pink petals with a yellow center.",
+      "modifications": "Manually drawn vector character. Includes the stem and paired leaf element from Twemoji Blossom."
+    },
+    {
+      "id": "canine",
+      "title": "Wild canine type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "A broad canine companion; not a species illustration.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "fern",
+      "title": "Fern type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Curved frond with paired leaflets; shared fern type.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "fire-poppy",
+      "title": "Fire poppy companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Orange cup-shaped bloom; a stylized plant character.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "grass",
+      "title": "Grass type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "A tuft of slender leaves; shared grass type.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "limpet",
+      "title": "Limpet type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "A low cap-shaped shell, replacing an unrelated spiral-shell stock icon.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "manzanita",
+      "title": "Manzanita type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Reddish branches, rounded green leaves, and small berries.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "mariposa-lily",
+      "title": "Mariposa lily type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f33c.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "Three pale petals and colored petal-base marks; shared by two lily species.",
+      "modifications": "Manually drawn vector character. Includes the stem and paired leaf element from Twemoji Blossom."
+    },
+    {
+      "id": "miners-lettuce",
+      "title": "Miner’s lettuce companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Small white blooms above a round, pierced leaf.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "miniature-lupine",
+      "title": "Miniature lupine companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Purple flower spire and palm-shaped leaf arrangement.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "moss",
+      "title": "Moss type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Low cushion and short shoots; shared moss type.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "oak",
+      "title": "Oak type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Lobed canopy with a small acorn; shared by multiple oak species.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "pacific-trillium",
+      "title": "Pacific trillium companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Three white petals above three broad green leaves.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "stonecrop",
+      "title": "Stonecrop type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Fleshy green leaf rosette; shared stonecrop type.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    },
+    {
+      "id": "twemoji-bat",
+      "title": "Bat type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f987.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-bird",
+      "title": "Bird type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f426.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-blossom",
+      "title": "Small flower type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f33c.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Added a simple face."
+    },
+    {
+      "id": "twemoji-butterfly",
+      "title": "Blue butterfly type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f98b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-conifer",
+      "title": "Conifer type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f332.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Added a simple face."
+    },
+    {
+      "id": "twemoji-herb",
+      "title": "Leafy plant type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f33f.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-lizard",
+      "title": "Lizard type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f98e.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-owl",
+      "title": "Owl type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f989.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-rabbit",
+      "title": "Rabbit type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f407.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-raccoon",
+      "title": "Raccoon type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f99d.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-seedling",
+      "title": "Seedling type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f331.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-snake",
+      "title": "Snake type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f40d.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-spider",
+      "title": "Spider type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f577.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-squirrel",
+      "title": "Squirrel type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f43f.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "twemoji-sunflower",
+      "title": "Yellow daisy type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f33b.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Added a simple face."
+    },
+    {
+      "id": "twemoji-tree",
+      "title": "Broadleaf tree type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f333.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Added a simple face."
+    },
+    {
+      "id": "twemoji-turkey",
+      "title": "Turkey type companion",
+      "credit": "Twemoji graphics © Twitter, Inc. and other contributors; Nature Relay adaptations.",
+      "sourceURL": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/svg/1f983.svg",
+      "licenseName": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0/",
+      "isAdapted": true,
+      "matchDescription": "General type character. It does not depict diagnostic features of this species.",
+      "modifications": "Added a white sticker edge and transparent padding. Original stock shape and colors retained."
+    },
+    {
+      "id": "yucca",
+      "title": "Yucca type companion",
+      "credit": "Nature Relay original vector artwork.",
+      "sourceURL": "",
+      "licenseName": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "isAdapted": false,
+      "matchDescription": "Spiky leaf rosette and a tall cream bloom stalk.",
+      "modifications": "Manually drawn vector character. Uses original Nature Relay vector paths; no borrowed stock geometry."
+    }
+  ],
+  "scientificNameMapping": [
+    {
+      "scientificName": "Eschscholzia californica",
+      "assetID": "california-poppy",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Epilobium canum",
+      "assetID": "california-fuchsia",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Collomia heterophylla",
+      "assetID": "twemoji-blossom",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Quercus douglasii",
+      "assetID": "oak",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Calochortus argillosus",
+      "assetID": "mariposa-lily",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Quercus berberidifolia",
+      "assetID": "oak",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Dactylis glomerata",
+      "assetID": "grass",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Dendroalsia abietina",
+      "assetID": "moss",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Woodwardia fimbriata",
+      "assetID": "fern",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Aesculus californica",
+      "assetID": "twemoji-tree",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Corvus corax",
+      "assetID": "bird-black",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Icaricia saepiolus",
+      "assetID": "twemoji-butterfly",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Ursus americanus",
+      "assetID": "bear-dark",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Buteo jamaicensis",
+      "assetID": "bird-brown",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Nymphalis antiopa",
+      "assetID": "butterfly-dark",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Campylorhynchus brunneicapillus",
+      "assetID": "bird-brown",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Canis latrans",
+      "assetID": "canine",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Adelpha californica",
+      "assetID": "butterfly-dark",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Pinus ponderosa",
+      "assetID": "twemoji-conifer",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Astur cooperii",
+      "assetID": "bird-gray",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Rosa californica",
+      "assetID": "california-wild-rose",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Quercus wislizeni",
+      "assetID": "oak",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Neckera menziesii",
+      "assetID": "moss",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Cinclus mexicanus",
+      "assetID": "bird-gray",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Parnassius clodius",
+      "assetID": "butterfly-cream",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Sceloporus occidentalis",
+      "assetID": "twemoji-lizard",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Geraea canescens",
+      "assetID": "twemoji-sunflower",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Chilopsis linearis",
+      "assetID": "twemoji-tree",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Meleagris gallopavo",
+      "assetID": "twemoji-turkey",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Sedum rubiginosum",
+      "assetID": "stonecrop",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Parnassius smintheus behrii",
+      "assetID": "butterfly-cream",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Umbellularia californica",
+      "assetID": "twemoji-tree",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Calochortus invenustus",
+      "assetID": "mariposa-lily",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Geococcyx californianus",
+      "assetID": "bird-brown",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Phidippus comatus",
+      "assetID": "twemoji-spider",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Selaginella oregana",
+      "assetID": "moss",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Icaricia acmon",
+      "assetID": "twemoji-butterfly",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Trillium ovatum",
+      "assetID": "pacific-trillium",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Notholithocarpus densiflorus",
+      "assetID": "oak",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Butorides virescens",
+      "assetID": "bird-gray",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Dipterostemon capitatus",
+      "assetID": "blue-dicks",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Pinus lambertiana",
+      "assetID": "twemoji-conifer",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Hesperoyucca whipplei",
+      "assetID": "yucca",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Bubo virginianus",
+      "assetID": "twemoji-owl",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Vanessa cardui",
+      "assetID": "butterfly-orange",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Otospermophilus beecheyi",
+      "assetID": "twemoji-squirrel",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Trichostema lanatum",
+      "assetID": "twemoji-herb",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Quercus garryana",
+      "assetID": "oak",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Setophaga coronata auduboni",
+      "assetID": "bird-yellow",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Arctostaphylos glandulosa",
+      "assetID": "manzanita",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Brephidium exilis",
+      "assetID": "twemoji-butterfly",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Nemacladus tenuis aliformis",
+      "assetID": "twemoji-blossom",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Abies grandis",
+      "assetID": "twemoji-conifer",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Cathartes aura",
+      "assetID": "bird-black",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Thamnophis couchii",
+      "assetID": "twemoji-snake",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Pellaea bridgesii",
+      "assetID": "fern",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Papilio polyxenes",
+      "assetID": "butterfly-dark",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Baileya multiradiata",
+      "assetID": "twemoji-sunflower",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Quercus kelloggii",
+      "assetID": "oak",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Molothrus ater",
+      "assetID": "bird-black",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Asclepias cordifolia",
+      "assetID": "twemoji-herb",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Toxicodendron diversilobum",
+      "assetID": "twemoji-herb",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Platanus racemosa",
+      "assetID": "twemoji-tree",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Auriparus flaviceps",
+      "assetID": "bird-yellow",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Vanessa atalanta",
+      "assetID": "butterfly-red",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Procyon lotor",
+      "assetID": "twemoji-raccoon",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Aquilegia formosa",
+      "assetID": "twemoji-blossom",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Quercus john-tuckeri",
+      "assetID": "oak",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Calypte anna",
+      "assetID": "bird-gray",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Arctostaphylos glauca",
+      "assetID": "manzanita",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Nymphalis californica",
+      "assetID": "butterfly-orange",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Trifolium depauperatum",
+      "assetID": "twemoji-blossom",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Pinus contorta",
+      "assetID": "twemoji-conifer",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Pandion haliaetus carolinensis",
+      "assetID": "bird-gray",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Fissurella volcano",
+      "assetID": "limpet",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Sedum spathulifolium",
+      "assetID": "stonecrop",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Danaus gilippus",
+      "assetID": "butterfly-orange",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Adelinia grandis",
+      "assetID": "twemoji-herb",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Melanerpes formicivorus bairdi",
+      "assetID": "bird-black",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Pinus sabiniana",
+      "assetID": "twemoji-conifer",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Lupinus bicolor",
+      "assetID": "miniature-lupine",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Larrea tridentata",
+      "assetID": "twemoji-herb",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Arbutus menziesii",
+      "assetID": "twemoji-tree",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Mimus polyglottos",
+      "assetID": "bird-gray",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Papilio zelicaon",
+      "assetID": "butterfly-yellow",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Lepus californicus",
+      "assetID": "twemoji-rabbit",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Hemitomes congestum",
+      "assetID": "twemoji-blossom",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Pseudotsuga menziesii",
+      "assetID": "twemoji-conifer",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Callipepla californica",
+      "assetID": "bird-gray",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Eriogonum fasciculatum polifolium",
+      "assetID": "twemoji-herb",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Hesperopsis libya",
+      "assetID": "butterfly-dark",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Claytonia perfoliata",
+      "assetID": "miners-lettuce",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Aphelocoma californica",
+      "assetID": "bird-blue",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Lasiurus cinereus cinereus",
+      "assetID": "twemoji-bat",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Pinus monophylla",
+      "assetID": "twemoji-conifer",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Ferocactus cylindraceus",
+      "assetID": "barrel-cactus",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Argynnis callippe comstocki",
+      "assetID": "butterfly-orange",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Papaver californicum",
+      "assetID": "fire-poppy",
+      "isSpeciesSpecific": true
+    },
+    {
+      "scientificName": "Acer negundo",
+      "assetID": "twemoji-tree",
+      "isSpeciesSpecific": false
+    },
+    {
+      "scientificName": "Icterus bullockii",
+      "assetID": "bird-yellow",
+      "isSpeciesSpecific": false
+    }
+  ]
+}

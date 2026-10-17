@@ -1,0 +1,1180 @@
+[
+  {
+    "index": 3,
+    "assetID": "a-d518942b2bb8",
+    "scientificName": "Quercus douglasii",
+    "name": "blue oak",
+    "kind": "tree",
+    "sourceRecordID": 57183487,
+    "filename": "a-d518942b2bb8.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Dusty blue-gray green leaves with shallow rounded lobes",
+      "Pale midribs and compact irregular branching crown",
+      "Narrow green acorns in shallow brown cups",
+      "Gray-brown bark trunk integrated as character body"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: single premium native iOS nature companion character, transparent PNG. Input Image 1 is the edit target and exact A-style character reference; transform its organism from California poppy into BLUE OAK (Quercus douglasii). Image 2 is the actual blue oak biological reference. Preserve Image 1's warm tactile sculpted matte soft-vinyl/velvety 3D finish, friendly brown oval eyes with small white highlights, tiny happy smile, compact rounded proportions and cozy soft lighting. Change all flower anatomy into real blue oak anatomy. Character body IS a small whole blue oak: a short broad gray-brown bark trunk body with the face embedded in its trunk, two short root feet and small twig arms, a branching compact crown built from clearly separate dusty BLUE-GRAY green oak leaves, each with shallow rounded lobes like Image 2, visible pale midribs; a few narrow green acorns in shallow brown scale cups growing from twigs. Make the foliage the unmistakable lobed leaves in the photo, not spherical foliage blobs. One welcoming arm. Keep the trunk compact and lovable while retaining recognizable branching-tree anatomy. Full entire single character centered at about 78 percent canvas, generous transparent margin on every side. Clean genuine transparent alpha background. No ground, scene, pot, pedestal, shadow plane, text, letters, border, watermark, orange petals, flower cup, costume or generic green puff crown. Cohesive A-style small appealing collectible.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-57183487-91190860.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/57183487",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "54ef1e5be1c74ffe157d5ed52036b02c9f77ff6a26f42b4b76c6397301fa4971",
+    "visualReview": "Approved by root pilot review: distinctive shallow lobed blue-gray oak leaves and narrow green acorns, gray-brown trunk body, friendly A-style face.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      69,
+      48,
+      1231,
+      1198
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 5,
+    "assetID": "a-6eabdaa508a6",
+    "scientificName": "Quercus berberidifolia",
+    "name": "California scrub oak",
+    "kind": "tree",
+    "sourceRecordID": 3695202,
+    "filename": "a-6eabdaa508a6.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Low multi-stem twiggy shrub form",
+      "Small oval green leaves with spine-toothed margins and pale undersides",
+      "Blunt barrel-shaped acorns",
+      "Thin flaky gray-brown bark"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into California scrub oak (Quercus berberidifolia). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A low, broad multi-stem CALIFORNIA SCRUB OAK shrub-body: thin flaky gray-brown bark trunk with a friendly face, root feet and twig hands. Many distinct small evergreen OVAL green leaves with visibly spine-toothed margins and pale undersides, not deeply lobed oak leaves. Dense twiggy rounded shrub habit as in the source photo. Two blunt barrel-shaped brown acorns in small scaly cups. Compact broader than tall silhouette. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-3695202-4287889.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/3695202",
+    "biologicalReferenceURLs": [
+      "https://research.fs.usda.gov/feis/species-reviews/quespp2",
+      "https://research.fs.usda.gov/download/treesearch/6199.pdf"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "18058cc8f0a0652f878a84963ff783d3e4c94c0fbaaf50d715e329e1169160c9",
+    "visualReview": "Approved: small oval spine-toothed leaves, pale undersides, broad twiggy shrub form, paired blunt acorns; A-style trunk face and complete silhouette.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      32,
+      65,
+      1237,
+      1180
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 9,
+    "assetID": "a-3afeb18bf154",
+    "scientificName": "Aesculus californica",
+    "name": "California buckeye",
+    "kind": "tree",
+    "sourceRecordID": 80177721,
+    "filename": "a-3afeb18bf154.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Smooth pale gray-white short trunk",
+      "Palmate leaves of five elongated toothed leaflets",
+      "Upright cream flower clusters with pink throats",
+      "Long cream stamens with orange anthers"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into California buckeye (Aesculus californica). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A compact flowering CALIFORNIA BUCKEYE tree-body: short smooth pale gray-white trunk with face, root feet and twig hands, broad branching crown. Clearly palmate compound leaves, FIVE elongated serrated green leaflets radiating like a hand. Several upright tapering creamy white flower spikes made of many tiny four-petaled flowers with pale pink throats and long fine cream stamens with orange tips, like the source photo. Give the flowers and palmate leaves distinct readable shapes. No chestnut burrs. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-80177721-131386967.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/80177721",
+    "biologicalReferenceURLs": [
+      "https://landscapeplants.oregonstate.edu/plants/aesculus-californica"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "ff2dd2a496386f39990f2a18c6cc3221983ab37319b3ce2a84e8a1bc19eb359a",
+    "visualReview": "Approved: distinct five-leaflet palmate leaves, cream flower spikes with pink throats and long stamens, pale trunk body; A-style face and complete silhouette.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      47,
+      11,
+      1216,
+      1234
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 12,
+    "assetID": "a-2b6282b807a9",
+    "scientificName": "Ursus americanus",
+    "name": "American Black Bear",
+    "kind": "other",
+    "sourceRecordID": 109507987,
+    "filename": "a-2b6282b807a9.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Cinnamon-brown black bear color morph from reference",
+      "Small rounded upright ears",
+      "Broad tan muzzle and dark nose",
+      "Short thick legs and broad paws"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into American Black Bear (Ursus americanus). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single AMERICAN BLACK BEAR cub, using the actual source's CINNAMON-BROWN color morph: a chubby bear body covered in sculpted soft brown fur, rounded small upright ears, broad softly tapered tan muzzle and dark brown nose, short thick legs and broad paws, subtle small claws, no shoulder hump. Sit in a lovable three-quarter pose with one forepaw lightly lifted. The entire body is anatomically a bear with four paws, not a human or a flower creature. Warm brown belly and cinnamon fur gradients, adorable friendly expression. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-109507987-184578489.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/109507987",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "ff752c7b12e16945d05db0c8e7ce438bbfac779ef0a07b2fb046e57c7f938570",
+    "visualReview": "Approved: cinnamon black-bear morph matches actual source; small rounded ears, tan muzzle, broad four paws and friendly A-style fur.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      181,
+      84,
+      1133,
+      1178
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 16,
+    "assetID": "a-38a2ceb39f79",
+    "scientificName": "Canis latrans",
+    "name": "Coyote",
+    "kind": "other",
+    "sourceRecordID": 256347836,
+    "filename": "a-38a2ceb39f79.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Large upright pointed ears and narrow long muzzle",
+      "Grizzled gray-brown back",
+      "Rusty tan legs and creamy throat",
+      "Bushy low tail with black tip"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Coyote (Canis latrans). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single COYOTE: compact but clearly canid body, disproportionately tall upright pointed ears, long narrow tapering snout, dark nose, slender legs, bushy low hanging tail with BLACK TIP. Grizzled gray-brown back, rusty tan legs and ear backs, creamy throat and underside exactly based on source colors. Lovable seated three-quarter pose with all four paws logically positioned and tail curling visibly to one side. Preserve the coyote's narrow face and large ears so it cannot read as a wolf or fox. No clothing. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-256347836-459597155.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/256347836",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "6ee215689756a6337be396648d6f376f8f0f5381552d0e21bc001eecfc23f049",
+    "visualReview": "Approved: large upright ears, narrow muzzle, grizzled gray back, creamy throat and black-tipped bushy tail; full A-style canid silhouette.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      193,
+      35,
+      1083,
+      1199
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 18,
+    "assetID": "a-d66453cf3bfa",
+    "scientificName": "Pinus ponderosa",
+    "name": "Western Ponderosa Pine",
+    "kind": "tree",
+    "sourceRecordID": 28988090,
+    "filename": "a-d66453cf3bfa.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Long green needles in three-needle bundles",
+      "Open whorled pine branch crown",
+      "Orange cinnamon puzzle-plate bark",
+      "Egg-shaped cones with outward scale prickles"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Western Ponderosa Pine (Pinus ponderosa). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole WESTERN PONDEROSA PINE tree-body with a short orange cinnamon bark trunk bearing the face, root feet and twig hands. Orange-brown bark plates shaped like large puzzle pieces. Open pyramidal crown with whorled branches; abundant LONG green needles explicitly in THREE-needle bundles, long fine needle tufts at branch tips, not broadleaf foliage. Two egg-shaped brown pinecones with short outward pointing prickles on the scales, as shown in source photo. Needles form the main distinctive airy silhouette. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-28988090-45216932.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/28988090",
+    "biologicalReferenceURLs": [
+      "https://landscapeplants.oregonstate.edu/plants/pinus-ponderosa"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "7806db0fb8ace726ab9ab9111b7537466701d34f60d749633250bdeecbac7628",
+    "visualReview": "Approved: long pine-needle tufts, two egg-shaped prickly-scale cones, cinnamon orange plated bark; warm A-style trunk face.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      49,
+      22,
+      1221,
+      1222
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 21,
+    "assetID": "a-7cb2f925f45d",
+    "scientificName": "Quercus wislizeni",
+    "name": "interior live oak",
+    "kind": "tree",
+    "sourceRecordID": 96509859,
+    "filename": "a-7cb2f925f45d.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Small leathery oval evergreen leaves",
+      "Mix of smooth and lightly spine-toothed margins",
+      "Dark green compact upright crown",
+      "Slender pointed acorns and dark gray-brown bark"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into interior live oak (Quercus wislizeni). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A compact INTERIOR LIVE OAK whole tree-body with rounded dark gray-brown trunk face, root feet and twig hands. Dense crown of individually readable small leathery green OVAL-to-elliptic evergreen leaves, short pale midribs; mix mostly slightly toothed edges and some smooth edges like Image 2. Leaves are NOT deeply lobed, NOT dusty blue. More upright compact crown and darker green leaves than blue oak. A few slender pointed brown acorns partly enclosed by scaly cups, and visible twig forks. Lovable short body. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-96509859-160342878.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/96509859",
+    "biologicalReferenceURLs": [
+      "https://research.fs.usda.gov/feis/species-reviews/quewis"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "494abd5df779528707643fd1a6551ed3def8985c35061d70b425cd3b40a4490a",
+    "visualReview": "Approved: individual oval evergreen leaves with light marginal teeth, pale midribs and pointed acorns; green upright crown clearly differs from lobed blue oak.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      48,
+      57,
+      1226,
+      1212
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 25,
+    "assetID": "a-e83335373691",
+    "scientificName": "Sceloporus occidentalis",
+    "name": "Western Fence Lizard",
+    "kind": "other",
+    "sourceRecordID": 73589287,
+    "filename": "a-e83335373691.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Gray-tan keeled overlapping scales",
+      "Dark transverse back markings",
+      "Four splayed five-toed legs and long tapering tail",
+      "Subtle blue belly-side patches"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Western Fence Lizard (Sceloporus occidentalis). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single WESTERN FENCE LIZARD with a compact tapering gray-tan lizard body, distinct triangular blunt-snouted head, visible overlapping keeled SCALES as source, dark brown transverse zigzag bars across back and tail. Four short splayed legs each with five slender toes, a very long tapering curling tail, no external ears. A hint of bright blue on the sides of belly/throat visible in the friendly three-quarter pose. Large friendly brown eyes and tiny smile integrated into the lizard face. Lovable detailed sculpted scales, no prey, no rock. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-73589287-120158487.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/73589287",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "7b44ac1cd062dedb563c7aa73c994ddeea3524ac39e5d307965f57f5ca1b0bef",
+    "visualReview": "Approved: distinctive keeled gray-tan scales, brown crossbars, blue throat/belly-side patches, splayed toes and long intact curved tail; friendly A-style lizard face.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      65,
+      93,
+      1217,
+      1197
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 27,
+    "assetID": "a-182c14b1881b",
+    "scientificName": "Chilopsis linearis",
+    "name": "desert willow",
+    "kind": "tree",
+    "sourceRecordID": 7950415,
+    "filename": "a-182c14b1881b.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Long very narrow willow-like leaves",
+      "Lilac-white five-lobed trumpet flowers",
+      "Purple streaks and yellow flower throats",
+      "Open branching form and long slender seedpods"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into desert willow (Chilopsis linearis). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small flowering DESERT WILLOW tree-body: slender twisting gray-brown trunk carrying face, root feet and twig hands; open branching crown of many long VERY NARROW lance-shaped green leaves. Large soft lilac-white TRUMPET flowers with five flared crinkly lobes, clearly visible purple-magenta streaks and golden yellow throat, matching source flower. A few narrow long brown hanging seedpods. Compact airy plant architecture, recognizably Chilopsis not a generic willow or generic blossom ball. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-7950415-10501440.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/7950415",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "894d027d26b8525640272bdcfba2e4d52325ac55c05bdfd50bea967ddde0ea02",
+    "visualReview": "Approved: narrow leaves, lilac trumpet flowers with purple streaks and yellow throats, elongated seedpods and twisting pale trunk; complete character.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      55,
+      11,
+      1240,
+      1218
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 34,
+    "assetID": "a-47352c03a878",
+    "scientificName": "Phidippus comatus",
+    "name": "Hairy Tufted Jumping Spider",
+    "kind": "other",
+    "sourceRecordID": 4778191,
+    "filename": "a-47352c03a878.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Tan-gray fuzzy jumping spider",
+      "Two large central forward eyes plus smaller lateral eyes",
+      "Eight articulated legs",
+      "Pale fluffy pedipalps and mottled oval abdomen"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Hairy Tufted Jumping Spider (Phidippus comatus). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single PHIDIPPUS COMATUS jumping spider: a lovable compact fuzzy TAN-GRAY spider with TWO body segments, big round-front cephalothorax and plump oval abdomen, EIGHT short articulated legs (four on each side), two fuzzy pale pedipalps held like mittens. Four forward-facing eyes visibly arranged with TWO large central brown glossy eyes and smaller lateral eyes, other smaller side eyes subtle. Brown/tan banded legs, sculpted fine gray-white fur and dark mottled abdomen based on the small spider in Image 2. No flower, web, six-legged anatomy, antennae, or costume. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-4778191-5820370.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/4778191",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "c3d1ecafe7159a12f016201aced384075632e0e4e001784139893a063e471b04",
+    "visualReview": "Approved: tan-gray fuzzy jumping spider with large central and smaller lateral eyes, banded articulated legs, plump mottled abdomen and pale fuzzy palps; friendly A-style character.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      62,
+      144,
+      1231,
+      1137
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 38,
+    "assetID": "a-d58d54ec192c",
+    "scientificName": "Notholithocarpus densiflorus",
+    "name": "Tanoak",
+    "kind": "tree",
+    "sourceRecordID": 170750849,
+    "filename": "a-d58d54ec192c.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Broad oblong leathery serrated leaves",
+      "Strong straight side veins giving corrugated surface",
+      "Paler velvety leaf undersides",
+      "Acorns with shaggy bristly cups"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Tanoak (Notholithocarpus densiflorus). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A compact whole TANOAK tree-body: short brown-gray bark trunk with face, root feet and twig hands. Crown of distinct broad OBLONG leathery dark green leaves with regular sharp saw-toothed edges and STRONGLY impressed straight side veins giving a corrugated/ribbed surface exactly like source. Some paler velvety undersides turned out. A few oval brown acorns seated in shaggy bristly cups. No deeply lobed oak leaves; make ribbed oblong serrated leaves and furry acorn cups central identifiers. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-170750849-296198943.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/170750849",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "36449afd0b142aeab9878956048c89ea8a522f7bf27218dc19f39961602c86f9",
+    "visualReview": "Approved: strong corrugated straight-veined oblong serrated leaves, pale undersides, shaggy bristled acorn cups and warm sculpted trunk face.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      50,
+      53,
+      1207,
+      1202
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 41,
+    "assetID": "a-ae3a17e34845",
+    "scientificName": "Pinus lambertiana",
+    "name": "sugar pine",
+    "kind": "tree",
+    "sourceRecordID": 89684688,
+    "filename": "a-ae3a17e34845.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Slender needles in five-needle bundles",
+      "Open horizontal tiered branches",
+      "Exceptionally long straight pendant cylindrical cones",
+      "Reddish-brown deeply furrowed trunk"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into sugar pine (Pinus lambertiana). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole SUGAR PINE tree-body with bark face, root feet and twig hands: straight short reddish-brown furrowed trunk, OPEN tiered nearly horizontal branches, tufts of slender green needles in FIVE-needle bundles. TWO extraordinarily LONG straight cylindrical hanging brown pinecones, proportionally much longer than other pine species, suspended from branch tips like pendants. Cones with many neatly overlapping smooth woody scales, no exaggerated spikes. Use the source's tall straight trunk and sparse horizontal branching in a compact lovable shape. The long cones are the unique signature. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-89684688-148128388.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/89684688",
+    "biologicalReferenceURLs": [
+      "https://landscapeplants.oregonstate.edu/plants/pinus-lambertiana"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "d14c0c95774b125fe9b4a4b9020efc2f04c6e9d0a761df05a131a71bc0e2469a",
+    "visualReview": "Approved: very long pendant cylindrical cones and open horizontal tier branches with slender needle tufts; reddish furrowed trunk and friendly face.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      119,
+      24,
+      1141,
+      1222
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 45,
+    "assetID": "a-15d782b87f79",
+    "scientificName": "Otospermophilus beecheyi",
+    "name": "California Ground Squirrel",
+    "kind": "other",
+    "sourceRecordID": 122179989,
+    "filename": "a-15d782b87f79.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Salt-and-pepper speckled gray-brown fur",
+      "Pale eye rings and cream belly",
+      "Small rounded ears",
+      "Moderately bushy low tail"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into California Ground Squirrel (Otospermophilus beecheyi). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single CALIFORNIA GROUND SQUIRREL in a friendly upright sitting pose: mottled salt-and-pepper gray-brown fur with pale speckles over shoulders/back, cream belly, relatively SMALL rounded ears, pale eye rings, short muzzle and dark nose. Short front paws held at chest and broad hind feet, long moderately bushy tail lying on the ground and curling along one side rather than a huge upright plume. Use one individual only, not the two in photo. Compact warm tactile sculpted fur. Keep speckled ground-squirrel markings distinct from a striped chipmunk. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-122179989-206836027.png",
+    "sourceURL": "https://www.inaturalist.org/observations/122179989",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "62c0e1800a248cec2d0af9db25cdf6f79b98429b0c92e78bd5e0be11e1f95cc3",
+    "visualReview": "Approved: salt-and-pepper shoulders/back, pale eye rings, small rounded ears, cream belly and moderately bushy low tail; full ground-squirrel body.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      91,
+      95,
+      1148,
+      1175
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 47,
+    "assetID": "a-64f76f908418",
+    "scientificName": "Quercus garryana",
+    "name": "Oregon oak",
+    "kind": "tree",
+    "sourceRecordID": 365450633,
+    "filename": "a-64f76f908418.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Large dark green leaves with deep rounded 7–9 lobes",
+      "Paler undersides with a few saddle-brown leaves",
+      "Broad crooked branching crown",
+      "Plump acorns in shallow cups"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Oregon oak (Quercus garryana). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A compact whole OREGON WHITE OAK / GARRY OAK tree-body with stout gray bark trunk carrying the face, root feet and twig hands; broad spread of crooked branches. Many large DARK GREEN leaves with 7–9 deep ROUNDED blunt lobes, paler undersides. The leaf lobes are deeper and larger than blue oak, never pointed or spine tipped. A few saddle-brown autumn leaves for the source's autumn impression. Plump oval brown acorns in SHALLOW cups on very short stalks. Strong readable individual leaf shapes and chunky gray bark. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-365450633-667226665.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/365450633",
+    "biologicalReferenceURLs": [
+      "https://landscapeplants.oregonstate.edu/plants/quercus-garryana",
+      "https://treespnw.forestry.oregonstate.edu/broadleaf_genera/species/oak_spp.htm"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "72e1d50d1e6edf9a209d4861bf712742f5ecab061a8b98d80b1de248a9ebc355",
+    "visualReview": "Approved: large deeply rounded-lobed oak leaves with dark/pale sides and autumn accents, plump shallow-cup acorns, rugged gray trunk; distinct from blue and scrub oaks.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      16,
+      18,
+      1239,
+      1211
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 52,
+    "assetID": "a-d71547dad5d6",
+    "scientificName": "Abies grandis",
+    "name": "grand fir",
+    "kind": "tree",
+    "sourceRecordID": 107445598,
+    "filename": "a-d71547dad5d6.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Flat two-row comb-like needle sprays",
+      "Alternating shorter and longer needles",
+      "Dark green upper needles with silver-white undersides",
+      "Upright cylindrical cones"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into grand fir (Abies grandis). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole GRAND FIR tree-body: short gray bark trunk with face, root feet and twig hands, conical crown of HORIZONTAL FLAT sprays. Each spray has flattened dark green needles spreading in TWO distinct comb-like rows with alternating short and long needles and pale silvery white undersides turned slightly into view, like source. A couple small purple pollen-cone clusters on lower twigs and two UPRIGHT cylindrical green-brown seed cones on upper branches. Never hanging pinecones, no long needle bundles, no solid triangular flat graphic. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-107445598-180712626.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/107445598",
+    "biologicalReferenceURLs": [
+      "https://landscapeplants.oregonstate.edu/plants/abies-grandis"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "333ec648d3f2b03f29426cdc0f9c4a26a842f97c71653aad5045b0ae9bcd2d9e",
+    "visualReview": "Approved: flat comb-like dark-green/silver needle sprays, upright cylindrical cones and purple pollen cone clusters; compact friendly grand-fir body.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      79,
+      33,
+      1196,
+      1209
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 54,
+    "assetID": "a-6d7292252fe4",
+    "scientificName": "Thamnophis couchii",
+    "name": "Sierra Garter Snake",
+    "kind": "other",
+    "sourceRecordID": 58392758,
+    "filename": "a-6d7292252fe4.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Dark olive-charcoal slender snake body",
+      "Rows of pale yellow checker spots",
+      "Subtle pale side stripe and cream underside",
+      "Limbless coil and long tapering tail"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Sierra Garter Snake (Thamnophis couchii). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single SIERRA GARTER SNAKE, Thamnophis couchii, with long slim limbless body posed as a soft loose two-loop coil and raised rounded tapered head. Body dark olive-charcoal with many small pale yellow cream CHECKERED spots in longitudinal rows like Image 2, subtle pale side stripe and lighter cream underside, a narrow neck and smoothly tapering tail entirely visible. Large friendly brown round eyes, tiny curved closed smile. Soft finely sculpted keeled scales. No arms, legs, rattle, fangs, horns, fish prey, rocks, or water. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-58392758-93223632.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/58392758",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "928d2d254d7d6349f920193771c4ca3e0f8f12c0f35f28b2883d0678d2b4c46e",
+    "visualReview": "Approved: dark coiled limbless snake with rows of pale checker spots, cream underside and complete tapering tail. Read-only opaque-alpha edge check: zero >200-alpha pixels on every border.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      35,
+      132,
+      1245,
+      1167
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 58,
+    "assetID": "a-8e6b328cf650",
+    "scientificName": "Quercus kelloggii",
+    "name": "California black oak",
+    "kind": "tree",
+    "sourceRecordID": 336034074,
+    "filename": "a-8e6b328cf650.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Seven sharply pointed bristle-tipped lobes",
+      "Copper-brown autumn foliage with some rich green",
+      "Dark charcoal irregular plated bark",
+      "Large acorns with deep scaly caps"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into California black oak (Quercus kelloggii). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A compact whole CALIFORNIA BLACK OAK tree-body with stout DARK charcoal-brown irregular plated bark trunk face, root feet and twig hands. Bold crown of large leaves with SEVEN sharply POINTED bristle-tipped lobes and deep sinuses, unmistakably same leaf outline as Image 2. Mix warm copper-brown autumn leaves and a few remaining rich green ones. Large elongated acorns set in distinctly DEEP scaly caps. Never rounded lobes; pointed leaf anatomy and dark bark plus copper autumn color distinguish this oak from blue and white oaks. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-336034074-610568930.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/336034074",
+    "biologicalReferenceURLs": [
+      "https://treespnw.forestry.oregonstate.edu/broadleaf_genera/species/oak_spp.htm"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "13549530e4c1b18fd9c0691f4ab6d79ce8e2e3d6ce77d23c2637dec211facb17",
+    "visualReview": "Approved: sharp bristle-tipped deeply lobed copper leaves, elongated deep-cap acorns and dark irregular bark; complete friendly oak body, distinct from round-lobed white oak.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      44,
+      18,
+      1215,
+      1208
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 62,
+    "assetID": "a-119d31c94488",
+    "scientificName": "Platanus racemosa",
+    "name": "western sycamore",
+    "kind": "tree",
+    "sourceRecordID": 144831563,
+    "filename": "a-119d31c94488.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Cream-gray-tan patchwork peeling bark",
+      "Large five-pointed palmate star-shaped leaves",
+      "Twisting open branching form",
+      "Brown spherical seed balls hanging in chains"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into western sycamore (Platanus racemosa). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole WESTERN SYCAMORE tree-body with face in a broad short pale cream trunk, root feet and twisting twig hands. Bark forms irregular mottled PATCHES of cream, pale gray and tan like source, smooth peeling camouflage pattern. Open irregular crown of distinct large FIVE-pointed PALMATE star-shaped green leaves, broad maple-like lobes with toothed edges and fine pale fuzz. Several small brown spherical seed balls HANG IN A CHAIN from one thin stalk. Pale mottled bark and star-lobed leaves must be unmistakable; no acorns. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-144831563-248665230.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/144831563",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "7ee999cd324be7f38144417babf4fb319576214c2c93131efab2c8b4869b2593",
+    "visualReview": "Approved: broad pale patchwork peeling trunk, five-pointed palmate leaves and chains of brown spherical seed balls; distinct sycamore anatomy.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      45,
+      36,
+      1225,
+      1211
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 65,
+    "assetID": "a-c4146a5f3d19",
+    "scientificName": "Procyon lotor",
+    "name": "Common Raccoon",
+    "kind": "other",
+    "sourceRecordID": 159527076,
+    "filename": "a-c4146a5f3d19.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Black eye mask with white eyebrows and muzzle",
+      "Gray-brown fur and white-rimmed rounded ears",
+      "Dexterous dark front paws",
+      "Thick tail with alternating dark and pale rings"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Common Raccoon (Procyon lotor). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single RACCOON with a rounded gray-furred animal body, unmistakable black MASK around friendly brown eyes, white eyebrow strips, white muzzle and dark nose. Small rounded white-rimmed ears, black delicate front paws with long little fingers, broader hind paws, long thick fluffy tail carrying alternating dark brown and pale gray RINGS. Sit upright in three-quarter pose with tail curled visibly beside feet, one forepaw raised slightly. Use source's gray brown fur and face markings. Four anatomically placed paws total, not a generic bear. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-159527076-278705971.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/159527076",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "4880156e434c63e610c88f9d0c6d6624c7a6864542c386849ab537d83aeca531",
+    "visualReview": "Approved: black eye mask with white brows and muzzle, gray fur, small rounded rimmed ears, dark dexterous paws and visibly ringed thick tail.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      112,
+      78,
+      1105,
+      1183
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 67,
+    "assetID": "a-d7d92f31bd49",
+    "scientificName": "Quercus john-tuckeri",
+    "name": "Tucker's Oak",
+    "kind": "tree",
+    "sourceRecordID": 77526358,
+    "filename": "a-d7d92f31bd49.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Small broad blue-gray green evergreen leaves",
+      "Irregular shallow sharp spine teeth",
+      "Pale netted veins and whitish leaf undersides",
+      "Low spreading multi-stem scrub form"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Tucker's Oak (Quercus john-tuckeri). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A low compact whole TUCKER OAK scrub tree-body: multi-stem dusty gray bark body with face, root feet and twig hands. Crown of many SMALL stiff blue-green-to-gray-green leaves, short broad rounded-to-ovate outline, irregular sharp shallow spine teeth, a few pale whitish hairy undersides and pale yellowish netted veins. Match the source's almost polygonal broad leaves and cool dusty color. Tiny pale yellow dangling catkins among twig tips and one small acorn. Low spreading desert scrub silhouette, not deep lobed deciduous oak or green rounded puffs. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-77526358-126794452.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/77526358",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "79ec05d0fcc05b53c279702948e21c1aaa2ba188d3e12257b8fee50e0ec33d3f",
+    "visualReview": "Approved: small broad dusty blue-gray spine-toothed leaves with netted pale veins and white undersides, yellow catkins and low multistem form; distinct Tucker oak.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      19,
+      47,
+      1235,
+      1206
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 72,
+    "assetID": "a-855688f0a39f",
+    "scientificName": "Pinus contorta",
+    "name": "lodgepole pine",
+    "kind": "tree",
+    "sourceRecordID": 107619586,
+    "filename": "a-855688f0a39f.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Short twisted needles in two-needle bundles",
+      "Narrow upright crown",
+      "Small asymmetric egg-shaped cones close to branches",
+      "Thin gray-brown flaky bark"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into lodgepole pine (Pinus contorta). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole LODGEPOLE PINE tree-body: straight narrow gray-brown flaky bark trunk bearing face, root feet and twig hands. A relatively narrow upright conical crown with dense green tufts of SHORT slightly TWISTED needles in PAIRS, two needles per bundle. Several small asymmetric egg-shaped brown cones clustered close to twigs, some closed tight with little prickles. Compact tree, needle and cone details are readable; not long three-needle ponderosa tufts and not broad fir comb branches. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-107619586-181040542.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/107619586",
+    "biologicalReferenceURLs": [
+      "https://treespnw.forestry.oregonstate.edu/conifer_genera/spp/pine_spp.html"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "21d7c6897bf8e317688c8ff6c0f7749ce145e404ba9444eb855fe1b38ba273e6",
+    "visualReview": "Approved: narrow upright pine silhouette, short dense needle tufts and small closely attached asymmetric cones; thin flaky trunk and A-style face.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      184,
+      15,
+      1097,
+      1213
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 74,
+    "assetID": "a-c12762563bb5",
+    "scientificName": "Fissurella volcano",
+    "name": "Volcano Keyhole Limpet",
+    "kind": "other",
+    "sourceRecordID": 79202558,
+    "filename": "a-c12762563bb5.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Oval conical pink shell with elongated oval apical aperture",
+      "Reddish-brown radiating shell markings",
+      "Red-and-white striped mantle edge and yellowish foot",
+      "Small brown head and yellow-cream tentacles"
+    ],
+    "prompt": "Use case: precise-object-edit. Image 1 is the limpet character edit target. Image 2 is the approved A-style poppy reference. Image 3 is the actual Fissurella volcano biological reference. Correct the eye anatomy on Image 1 only: this limpet must have EXACTLY TWO brown friendly eyes total, located at the bases of the two pale yellow tentacles. Remove the two extra little dark eye spots currently painted on the tentacle shafts. The large friendly face eyes remain, positioned beside the tentacle bases; both tentacle shafts and tips are entirely plain pale yellow without eyes or spots. Keep everything else closely unchanged: single low oval conical pink and russet radially patterned limpet shell, elongated oval open aperture at apex, cream yellow broad flattened foot, small brown smiling head, exactly two plain short tapered tentacles, cozy sculpted soft 3D material, warm lighting and lovable proportions. Preserve the entire uncut silhouette centered with slightly more transparent margin on all sides. Clean true transparent alpha. No scenery, ground, floor shadow, text, borders, accessories, spiral snail shell or extra limbs.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-79202558-129705278.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/79202558",
+    "biologicalReferenceURLs": [
+      "https://seanet.stanford.edu/Molluscs"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "f36751bdb060e8e48829e7c50e940764e1222f69037f475a3256f3ea48711d43",
+    "visualReview": "Approved after one targeted built-in imagegen anatomy correction: exactly two eyes beside tentacle bases, plain pale tentacles, pink-russet radial shell with oval apical opening and flattened yellow foot.",
+    "visualReviewApproved": true,
+    "initialGenerationPrompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Volcano Keyhole Limpet (Fissurella volcano). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single VOLCANO KEYHOLE LIMPET, Fissurella volcano: a squat limpet animal with broad low OVAL conical shell over a soft flattened cream foot. Shell has radiating ribs, a muted PINK shell surface with reddish-brown radiating markings, red-and-white mantle edge stripes, a yellowish cream foot, and a clearly OPEN ELONGATED OVAL aperture at the apex. Small brown head peeks under the FRONT shell rim, two short yellow-cream tentacles with small eye spots near bases, tiny friendly smile and larger stylized friendly brown eyes integrated there. Reference the source's brown head, pale tentacles and cream-russet shell rim. No spiraling snail shell, no hermit crab limbs, no rock or water. Gentle tactile sculpted shell, whole animal centered, a species-specific rounded collectible. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "initialGeneratedOriginalPath": "[local-generation-file-omitted]",
+    "correctionReason": "Correct extra eye spots introduced by first generation; final character has exactly two eyes.",
+    "opaqueBoundingBox": [
+      29,
+      260,
+      1236,
+      1109
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 79,
+    "assetID": "a-41ddca28813d",
+    "scientificName": "Pinus sabiniana",
+    "name": "gray pine",
+    "kind": "tree",
+    "sourceRecordID": 72141227,
+    "filename": "a-41ddca28813d.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Open irregular crown and crooked forked trunk",
+      "Very long wispy drooping gray-blue-green needles",
+      "Three-needle bundles",
+      "Large heavy oval cone and fissured gray-brown bark"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into gray pine (Pinus sabiniana). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole GRAY PINE tree-body: short crooked FORKED gray-brown fissured trunk with face, root feet and twig hands, OPEN irregular branching crown like Image 2. Distinctively long wispy DROOPING gray-blue-green needles in THREE-needle bundles form sparse airy hanging tufts. One conspicuously LARGE heavy oval brown woody cone with thick hook-prickled scales attached close to a lower branch. Keep crown airy and irregular, not a symmetrical Christmas tree; wispy gray drooping needles contrast strongly with dense green ponderosa. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-72141227-117571564.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/72141227",
+    "biologicalReferenceURLs": [
+      "https://landscapeplants.oregonstate.edu/plants/pinus-sabiniana"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "66d3f1cbdc90938fb9041b8dd0b00187f1c39a6298b91f574d0d58908c09b8ac",
+    "visualReview": "Approved: forked crooked trunk, airy irregular crown of long drooping blue-gray needles, large heavy prickled oval cone and friendly bark body.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      51,
+      45,
+      1221,
+      1199
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 82,
+    "assetID": "a-d944eebbb8f8",
+    "scientificName": "Arbutus menziesii",
+    "name": "Pacific madrone",
+    "kind": "tree",
+    "sourceRecordID": 47806154,
+    "filename": "a-d944eebbb8f8.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Smooth orange-red peeling bark revealing pale patches",
+      "Curving branching trunk",
+      "Thick oval dark-green evergreen leaves",
+      "Cream bell flowers and orange-red berries"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Pacific madrone (Arbutus menziesii). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole PACIFIC MADRONE tree-body: short curved trunk and branching arms with face in warm ORANGE-RED smooth bark that peels in thin cinnamon curls, revealing cream-greenish patches like source. Root feet, rounded compact crown of thick oval glossy dark green leaves with smooth edges and pale undersides. Small dangling clusters of cream bell-shaped flowers and a compact cluster of red-orange round berries on separate twigs. Smooth warm peeling red bark is the main identity, not rough oak bark. Distinct individual large oval leaves. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-47806154-75824416.jpg",
+    "sourceURL": "https://www.inaturalist.org/observations/47806154",
+    "biologicalReferenceURLs": [
+      "https://andrewsforest.oregonstate.edu/pubs/pdf/pub927.pdf"
+    ],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "398abc2032e6070727c9d4b860bbbe3b3a7d0cdc2ef56c16f73360448bb6f17c",
+    "visualReview": "Approved: smooth orange-red peeling bark with pale exposed patches, thick oval leaves, cream bell flowers and red-orange berry cluster; charming whole tree.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      38,
+      20,
+      1237,
+      1227
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  },
+  {
+    "index": 85,
+    "assetID": "a-0b675b9905f7",
+    "scientificName": "Lepus californicus",
+    "name": "Black-tailed Jackrabbit",
+    "kind": "other",
+    "sourceRecordID": 172197511,
+    "filename": "a-0b675b9905f7.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Very long black-tipped upright ears",
+      "Grizzled sandy-gray brown fur and cream belly",
+      "Long powerful hind legs and elongated feet",
+      "Small black-topped tail"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Black-tailed Jackrabbit (Lepus californicus). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single BLACK-TAILED JACKRABBIT with a compact appealing hare body, VERY LONG upright ears with clearly BLACK tips and pinkish tan interiors, long powerful hind legs and elongated hind feet, shorter forelegs, grizzled sandy gray-brown fur and pale cream belly. Small tail has black upper surface, visibly peeking to side. Friendly three-quarter sitting pose, long lean hare face, brown eyes and tiny soft smile. Retain hare proportions and exceptionally long ears even in rounded A-style anatomy. No antlers, clothing or white puffball-only tail. Composition: exactly one entire character in three-quarter front view, centered about 78–82 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-172197511-298893802.jpeg",
+    "sourceURL": "https://www.inaturalist.org/observations/172197511",
+    "biologicalReferenceURLs": [],
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "sha256": "c16e4d9a86b46ede9df9a7ba0eb01e9dd5192989723a504616ac5e745459643c",
+    "visualReview": "Approved: exceptionally long black-tipped ears, long hind feet, grizzled sandy fur, cream belly and black-topped tail; entire friendly hare silhouette.",
+    "visualReviewApproved": true,
+    "opaqueBoundingBox": [
+      255,
+      29,
+      1078,
+      1222
+    ],
+    "edgeOpaquePixelCounts": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "verifiedOriginalCopy": true,
+    "sourcePhotoInspected": true
+  }
+]

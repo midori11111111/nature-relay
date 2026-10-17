@@ -1,0 +1,39 @@
+{
+  "records": 100,
+  "uniqueSpecies": 100,
+  "uniquePhotoHashes": 100,
+  "categories": {
+    "flower": 20,
+    "tree": 20,
+    "plant": 15,
+    "bird": 20,
+    "butterfly": 15,
+    "other": 10
+  },
+  "regions": {
+    "San Francisco Bay Area": 16,
+    "De Anza area": 24,
+    "Northern California coast": 16,
+    "Sierra Nevada and foothills": 14,
+    "Southern California": 23,
+    "California desert": 4,
+    "Central California": 3
+  },
+  "licenses": {
+    "cc-by": 68,
+    "cc0": 32
+  },
+  "photoBytes": 45542955,
+  "minObservedOn": "2005-07-16",
+  "maxObservedOn": "2026-08-10",
+  "photoLongEdgeRange": [
+    480,
+    1024
+  ],
+  "minPhotoShortEdge": 360,
+  "displayAccuracyMinimumMeters": 1000,
+  "threatenedObscuredPrivateRecords": 0,
+  "aiGeneratedImages": 0,
+  "visualReview": "All100 original selections inspected as contact sheets;28 sources replaced after inspection to remove illustrations, novelty objects, non-organism animal specimens, and unclear framing. Selected replacements inspected in medium preview, then original large bytes verified. Close-up plant parts remain valid source photographs.",
+  "orphanPhotosPruned": 28
+}

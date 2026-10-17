@@ -1,0 +1,22 @@
+[
+  {
+    "index": 31,
+    "assetID": "a-4fadef031e95",
+    "scientificName": "Umbellularia californica",
+    "name": "California bay",
+    "kind": "tree",
+    "sourceRecordID": 191228338,
+    "filename": "a-4fadef031e95.png",
+    "status": "ready",
+    "generationMethod": "Built-in image generation",
+    "traits": "Long narrow unlobed olive-green leaves with pointed tips and pale midribs; drooping leaf sprays and small green olive-shaped fruits; rounded gray-brown trunk and root feet.",
+    "prompt": "Create one charming original California bay tree companion (Umbellularia californica) for Nature Relay. Use the attached orange flower character solely as the reference for warm lighting, velvety matte sculpted 3D material, friendly small dark-brown oval eyes, warm cheeks, tiny happy mouth and compact toy proportions. Change the organism completely into this tree: a squat rounded gray-brown tree trunk forms its body and smiling face, with two short branch arms and small rounded root feet. Above it is an airy crown of individual olive-green long narrow elliptical leaves, smooth unlobed edges, pointed tips and pale midribs, hanging from a few slender branching twigs. A few leaves form gently drooping sprays; add three small green olive-shaped bay fruits attached naturally to twigs. Keep the leaf shapes bold and readable at a small map-pin size. The recognizable leaf shape and gray trunk should distinguish this from oak or pine characters. Soft tactile collectible art-toy rendering, friendly character, simple sculpted surfaces, no photographic foliage texture. One complete isolated character centered with comfortable transparent margins around its entire crown, arms and feet. Genuine transparent background. No leftover orange flower petals, no person, no flower pot, no scenery, no lettering, no watermark, no frame or sticker outline.",
+    "referencedImagePaths": [
+      "DesignConcepts/poppy-v1/a-flower-cup.png"
+    ],
+    "sourcePhotoInspected": true,
+    "sourcePhotoUsedAsToolReference": false,
+    "visualReview": "Accepted: fully visible soft sculpted tree character, narrow smooth leaves, pale midribs, three small attached fruits, true transparent background. Botanical photograph inspected separately; no human/photo background carried into artwork.",
+    "originalGeneratedFile": "[local-generation-file-omitted]"
+  }
+]

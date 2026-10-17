@@ -1,0 +1,1052 @@
+[
+  {
+    "index": 10,
+    "assetID": "a-9c715f30175c",
+    "name": "Common Raven",
+    "scientificName": "Corvus corax",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-319901229-578320694.jpg",
+    "sourceRecordID": 319901229,
+    "traits": "A round Common Raven bird with deep charcoal-black plumage, a very stout gently arched black bill, shaggy pointed throat feathers, thick neck, wedge-shaped black tail and two substantial dark bird feet. Gentle front three-quarter standing pose, one rounded wing slightly lifted. Keep the all-black raven identity, soft blue-violet hints only in feather highlights.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A round Common Raven bird with deep charcoal-black plumage, a very stout gently arched black bill, shaggy pointed throat feathers, thick neck, wedge-shaped black tail and two substantial dark bird feet. Gentle front three-quarter standing pose, one rounded wing slightly lifted. Keep the all-black raven identity, soft blue-violet hints only in feather highlights. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-9c715f30175c.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "ac56ef65b0587cf448809864464a3090206557935886b0aa823d3a94308d1590",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      79,
+      180,
+      1200,
+      1173
+    ]
+  },
+  {
+    "index": 11,
+    "assetID": "a-c177c5052b0f",
+    "name": "Greenish Blue",
+    "scientificName": "Icaricia saepiolus",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-6730690-8544593.jpg",
+    "sourceRecordID": 6730690,
+    "traits": "A tiny Greenish Blue butterfly with four broadly rounded wings. Dorsal wings are pale silvery sky blue with a slight greenish cast, narrow smoky brown outer borders, and delicate white fringe, matching the upper butterfly in photo. No orange bands and no swallowtail tails. Short plump blue-gray insect body, two clubbed antennae, six folded stylized insect legs. Open wings in a friendly front three-quarter hovering pose.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A tiny Greenish Blue butterfly with four broadly rounded wings. Dorsal wings are pale silvery sky blue with a slight greenish cast, narrow smoky brown outer borders, and delicate white fringe, matching the upper butterfly in photo. No orange bands and no swallowtail tails. Short plump blue-gray insect body, two clubbed antennae, six folded stylized insect legs. Open wings in a friendly front three-quarter hovering pose. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-c177c5052b0f.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "55d43c13d4fc5828f1d2b436b88262d3dc7f0b199bea5506afeadc3e46183912",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      102,
+      181,
+      1212,
+      1139
+    ]
+  },
+  {
+    "index": 13,
+    "assetID": "a-3a65e589738a",
+    "name": "Red-tailed Hawk",
+    "scientificName": "Buteo jamaicensis",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-365887523-668055074.jpg",
+    "sourceRecordID": 365887523,
+    "traits": "A friendly Red-tailed Hawk with broad brown wings, warm cream chest and belly carrying a dark brown speckled belly band, stout hooked dark bill with a yellow cere, yellow bird feet, and an unmistakable rusty red broad rounded tail visible behind the body. Round chunky hawk proportions, folded wings and a slight head tilt. The main hawk in photo is the subject; ignore the small black bird in photo.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A friendly Red-tailed Hawk with broad brown wings, warm cream chest and belly carrying a dark brown speckled belly band, stout hooked dark bill with a yellow cere, yellow bird feet, and an unmistakable rusty red broad rounded tail visible behind the body. Round chunky hawk proportions, folded wings and a slight head tilt. The main hawk in photo is the subject; ignore the small black bird in photo. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-3a65e589738a.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "31fa34b451a378606b619279c515dd70bbca41943861d2aca59c98ae958458fc",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      108,
+      118,
+      1146,
+      1168
+    ]
+  },
+  {
+    "index": 14,
+    "assetID": "a-90289ac240eb",
+    "name": "Mourning Cloak",
+    "scientificName": "Nymphalis antiopa",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-199304709-351462317.jpg",
+    "sourceRecordID": 199304709,
+    "traits": "A Mourning Cloak butterfly with rich dark chocolate-maroon four wings, broad pale buttery cream outer margins and a row of small blue-violet spots immediately inside the cream border. Softly scalloped rounded wing edges, dark furry short insect body, two clubbed antennae and six folded stylized insect legs. Wings spread to show the unique cream-bordered pattern, friendly small eyes and smile.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Mourning Cloak butterfly with rich dark chocolate-maroon four wings, broad pale buttery cream outer margins and a row of small blue-violet spots immediately inside the cream border. Softly scalloped rounded wing edges, dark furry short insect body, two clubbed antennae and six folded stylized insect legs. Wings spread to show the unique cream-bordered pattern, friendly small eyes and smile. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-90289ac240eb.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "1108135478fbac4d54f182a87cf7f72ed66341b382f7ec1aec635de8e8d74f7d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      53,
+      131,
+      1238,
+      1135
+    ]
+  },
+  {
+    "index": 15,
+    "assetID": "a-7bda01448e45",
+    "name": "Cactus Wren",
+    "scientificName": "Campylorhynchus brunneicapillus",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-258309603-463415600.jpg",
+    "sourceRecordID": 258309603,
+    "traits": "A Cactus Wren bird with warm brown crown and back, a long bold creamy white eyebrow, gray-brown cheek stripe, creamy breast densely sprinkled with distinct dark brown spots, barred brown-and-white wings and a long brown tail with white spots. Slender slightly downcurved pointed bill, compact round body, two bird feet, alert upright three-quarter pose with one wing lifted.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Cactus Wren bird with warm brown crown and back, a long bold creamy white eyebrow, gray-brown cheek stripe, creamy breast densely sprinkled with distinct dark brown spots, barred brown-and-white wings and a long brown tail with white spots. Slender slightly downcurved pointed bill, compact round body, two bird feet, alert upright three-quarter pose with one wing lifted. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-7bda01448e45.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "46466ee5a46ebe67f8446899196a13675812bba2298186cd8b64b6c065331dce",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      58,
+      144,
+      1209,
+      1161
+    ]
+  },
+  {
+    "index": 17,
+    "assetID": "a-ba3dc1dbf5a8",
+    "name": "California Sister",
+    "scientificName": "Adelpha californica",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-390164498-714760102.jpg",
+    "sourceRecordID": 390164498,
+    "traits": "A California Sister butterfly with dark chocolate brown wings, broad continuous creamy white bands running across both forewings and hindwings, and an orange patch near each forewing tip. Rounded slightly scalloped wing shape, a short plump brown insect body, two clubbed antennae, six folded stylized legs. Open wings gently tilted so the characteristic dark-white-orange design is clear. Match the real species referenced, no generic pink colors.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A California Sister butterfly with dark chocolate brown wings, broad continuous creamy white bands running across both forewings and hindwings, and an orange patch near each forewing tip. Rounded slightly scalloped wing shape, a short plump brown insect body, two clubbed antennae, six folded stylized legs. Open wings gently tilted so the characteristic dark-white-orange design is clear. Match the real species referenced, no generic pink colors. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-ba3dc1dbf5a8.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "772d548b987b82179736bc2eed9bf0d5901a6b837ce5e86489faa7c7fa0ec643",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      49,
+      127,
+      1245,
+      1157
+    ]
+  },
+  {
+    "index": 19,
+    "assetID": "a-e97e8d3ca8b7",
+    "name": "Cooper's Hawk",
+    "scientificName": "Astur cooperii",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-27793926-43282408.jpg",
+    "sourceRecordID": 27793926,
+    "traits": "A Cooper's Hawk with a small rounded head, slate-gray cap and back, warm rusty fine horizontal barring over a pale chest, yellow slender legs and bird feet, a small dark hooked bill with yellow cere, and a notably long rounded tail with multiple dark horizontal bands and a pale tip. Cute compact bird standing in three-quarter view with wings relaxed slightly open. Tail is long relative to the body; do not make it the red tail of a Red-tailed Hawk.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Cooper's Hawk with a small rounded head, slate-gray cap and back, warm rusty fine horizontal barring over a pale chest, yellow slender legs and bird feet, a small dark hooked bill with yellow cere, and a notably long rounded tail with multiple dark horizontal bands and a pale tip. Cute compact bird standing in three-quarter view with wings relaxed slightly open. Tail is long relative to the body; do not make it the red tail of a Red-tailed Hawk. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-e97e8d3ca8b7.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "fbc7b6fd85e26406892531dd49fc02f91a762e70aa670a3ba9fa048a2b0d3073",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      73,
+      151,
+      1196,
+      1176
+    ]
+  },
+  {
+    "index": 23,
+    "assetID": "a-32352afe0ee6",
+    "name": "American Dipper",
+    "scientificName": "Cinclus mexicanus",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-67280724-108664780.jpeg",
+    "sourceRecordID": 67280724,
+    "traits": "An American Dipper bird with uniformly slate-gray plumage, a faint warmer gray-brown rounded head, compact plump body, a very short cocked-up tail, slender straight dark bill, sturdy pinkish-gray legs and broad bird toes. Small dark brown friendly eyes in natural bird position, gentle head tilt and slightly open rounded wings. No bright colored markings, no water or rock.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. An American Dipper bird with uniformly slate-gray plumage, a faint warmer gray-brown rounded head, compact plump body, a very short cocked-up tail, slender straight dark bill, sturdy pinkish-gray legs and broad bird toes. Small dark brown friendly eyes in natural bird position, gentle head tilt and slightly open rounded wings. No bright colored markings, no water or rock. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-32352afe0ee6.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "15f642733369643daf6c5f7bd98fd1651b12baede6c1c3ccff738a6ab7af677d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      99,
+      185,
+      1170,
+      1158
+    ]
+  },
+  {
+    "index": 24,
+    "assetID": "a-c9bf81f198cc",
+    "name": "Clodius Parnassian",
+    "scientificName": "Parnassius clodius",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-341089-424314.jpg",
+    "sourceRecordID": 341089,
+    "traits": "A Clodius Parnassian butterfly based closely on Image 2. Four rounded ivory white wings with translucent-looking smoky gray margins, strong black block-like markings across the forewings, and small red hindwing spots each bounded by black. Rounder broad hindwings, velvety short dark insect body, two black clubbed antennae and six folded insect legs. Wings spread showing the dark geometric forewing markings and paired small red accents. No swallowtail tails.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Clodius Parnassian butterfly based closely on Image 2. Four rounded ivory white wings with translucent-looking smoky gray margins, strong black block-like markings across the forewings, and small red hindwing spots each bounded by black. Rounder broad hindwings, velvety short dark insect body, two black clubbed antennae and six folded insect legs. Wings spread showing the dark geometric forewing markings and paired small red accents. No swallowtail tails. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-c9bf81f198cc.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "9e7e34f687007c40195cea95289ac03aab75322cc0406f82c831711e24d4c358",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      60,
+      168,
+      1225,
+      1125
+    ]
+  },
+  {
+    "index": 28,
+    "assetID": "a-81daad0169dc",
+    "name": "Wild Turkey",
+    "scientificName": "Meleagris gallopavo",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-369885932-675683505.jpg",
+    "sourceRecordID": 369885932,
+    "traits": "A Wild Turkey bird with a big round bronze-brown layered feather body, a broad fan of brown tail feathers with chestnut and pale tan tips, dark barred wings, small bare pale blue head, red neck wattle and red snood, pale short beak and sturdy muted pink bird legs. Make it very lovable with rounded sculpted anatomy and little friendly eyes. The only subject is the turkey; exclude the snake from Image 2.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Wild Turkey bird with a big round bronze-brown layered feather body, a broad fan of brown tail feathers with chestnut and pale tan tips, dark barred wings, small bare pale blue head, red neck wattle and red snood, pale short beak and sturdy muted pink bird legs. Make it very lovable with rounded sculpted anatomy and little friendly eyes. The only subject is the turkey; exclude the snake from Image 2. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-81daad0169dc.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "c46b0be00fc435f289c069798c63ed12927d9b6e85c0d8e1a5fbca8c6651d730",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      54,
+      37,
+      1159,
+      1221
+    ]
+  },
+  {
+    "index": 30,
+    "assetID": "a-4e2c4508a6d2",
+    "name": "Sierra Nevada Parnassian",
+    "scientificName": "Parnassius smintheus behrii",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-390075-487967.jpg",
+    "sourceRecordID": 390075,
+    "traits": "A Sierra Nevada Parnassian butterfly (Parnassius smintheus behrii) based on Image 2: cream ivory rounded wings with heavy charcoal-black spots and thick smoky scalloped markings, subtle very pale yellow warmth, a short fuzzy charcoal insect body, two black clubbed antennae and six folded legs. Pose partly open wings tilted toward the viewer to expose the spotted ivory surfaces; follow the restrained black-and-cream reference individual, no large bright red spots. No swallowtail tails.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Sierra Nevada Parnassian butterfly (Parnassius smintheus behrii) based on Image 2: cream ivory rounded wings with heavy charcoal-black spots and thick smoky scalloped markings, subtle very pale yellow warmth, a short fuzzy charcoal insect body, two black clubbed antennae and six folded legs. Pose partly open wings tilted toward the viewer to expose the spotted ivory surfaces; follow the restrained black-and-cream reference individual, no large bright red spots. No swallowtail tails. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-4e2c4508a6d2.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "e2c9657f64cd8ee364a058c01e30f2bfbfc42bbc033243f54bea599d11d5220c",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      75,
+      173,
+      1222,
+      1133
+    ]
+  },
+  {
+    "index": 33,
+    "assetID": "a-dcaffdb887ed",
+    "name": "Greater Roadrunner",
+    "scientificName": "Geococcyx californianus",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-250145077-447306325.jpeg",
+    "sourceRecordID": 250145077,
+    "traits": "A Greater Roadrunner bird with a charming upright dark brown spiky crest, buff and brown boldly streaked head and neck, long sturdy slightly downcurved gray bill, warm buff breast with brown streaks, long brown tail tipped pale and two long bird legs with zygodactyl toes. Compact plump body, energetic small stepping pose and relaxed smile. Distinct crest and long tail fully visible; no cartoon franchise design.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Greater Roadrunner bird with a charming upright dark brown spiky crest, buff and brown boldly streaked head and neck, long sturdy slightly downcurved gray bill, warm buff breast with brown streaks, long brown tail tipped pale and two long bird legs with zygodactyl toes. Compact plump body, energetic small stepping pose and relaxed smile. Distinct crest and long tail fully visible; no cartoon franchise design. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-dcaffdb887ed.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "7fb0faeb29fa874be93509a4eb819619ccb8c6311c7e4edea505d018c284f5bf",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      138,
+      40,
+      1231,
+      1221
+    ]
+  },
+  {
+    "index": 36,
+    "assetID": "a-29ce305b458a",
+    "name": "Acmon Blue",
+    "scientificName": "Icaricia acmon",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-52551213-83547417.jpg",
+    "sourceRecordID": 52551213,
+    "traits": "An Acmon Blue butterfly inspired by Image 2: pale pearl-gray underside wings covered in orderly small black dots, a clear row of orange lunules near the hindwing edge with black centers, a pale blue tinge toward wing bases and white fringe. No tails. Show butterfly in a three-quarter pose with wings partly open, emphasizing the spotted gray underside and orange hindwing band. Short plush gray insect body, two clubbed antennae, six folded legs, tiny friendly eyes.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. An Acmon Blue butterfly inspired by Image 2: pale pearl-gray underside wings covered in orderly small black dots, a clear row of orange lunules near the hindwing edge with black centers, a pale blue tinge toward wing bases and white fringe. No tails. Show butterfly in a three-quarter pose with wings partly open, emphasizing the spotted gray underside and orange hindwing band. Short plush gray insect body, two clubbed antennae, six folded legs, tiny friendly eyes. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-29ce305b458a.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "4fd2f0b6bd50f6b25c0a9eac994f0fb2b490b2b12c8e85ada749871d150e4edb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      97,
+      88,
+      1209,
+      1171
+    ]
+  },
+  {
+    "index": 39,
+    "assetID": "a-f7aa8533cae8",
+    "name": "Green Heron",
+    "scientificName": "Butorides virescens",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-145401475-249743480.jpg",
+    "sourceRecordID": 145401475,
+    "traits": "A Green Heron bird with deep forest-green cap and folded back wings, a chestnut-russet short tucked neck, a white central throat stripe with chestnut streaks, a long straight dagger-shaped dark bill with a pale base, two yellow bird legs and long toes. Keep the heron's squat round shape and slightly hunched curious pose, one small wing opened. A gentle small expression; not a tall crane and not a wholly green bird.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Green Heron bird with deep forest-green cap and folded back wings, a chestnut-russet short tucked neck, a white central throat stripe with chestnut streaks, a long straight dagger-shaped dark bill with a pale base, two yellow bird legs and long toes. Keep the heron's squat round shape and slightly hunched curious pose, one small wing opened. A gentle small expression; not a tall crane and not a wholly green bird. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-f7aa8533cae8.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "c7290ad3c802d534759e5a8530aac168b7d00e6e1e1c07a1f04f93b96f69d2bb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      173,
+      141,
+      1180,
+      1171
+    ]
+  },
+  {
+    "index": 43,
+    "assetID": "a-398d62bbf17a",
+    "name": "Great Horned Owl",
+    "scientificName": "Bubo virginianus",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-73117506-119330691.jpeg",
+    "sourceRecordID": 73117506,
+    "traits": "A Great Horned Owl with two prominent rounded feather ear tufts, mottled warm brown and cream sculpted plumage, a pale white throat bib, round facial discs, dark hooked tiny beak, and a broad barrel body with small feathered bird feet. Warm friendly dark oval eyes with thin golden iris accents in the owl's natural forward eye placement. Frontal gentle standing pose, relaxed wings. Distinct ear tufts and brown barring; no spectacle accessories.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Great Horned Owl with two prominent rounded feather ear tufts, mottled warm brown and cream sculpted plumage, a pale white throat bib, round facial discs, dark hooked tiny beak, and a broad barrel body with small feathered bird feet. Warm friendly dark oval eyes with thin golden iris accents in the owl's natural forward eye placement. Frontal gentle standing pose, relaxed wings. Distinct ear tufts and brown barring; no spectacle accessories. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-398d62bbf17a.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "6c3ed9b3cbf76ed698c042d4e04d935a6d9be26b2e65b5cd38b1fe80c82ce97d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      163,
+      65,
+      1080,
+      1214
+    ]
+  },
+  {
+    "index": 44,
+    "assetID": "a-78435fc01b92",
+    "name": "Painted Lady",
+    "scientificName": "Vanessa cardui",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-341559440-621817520.jpg",
+    "sourceRecordID": 341559440,
+    "traits": "A Painted Lady butterfly with warm salmon-orange and black patterned forewings, black forewing tips containing white patches, mottled cream-tan and brown hindwing undersides carrying four to five small round eyespots. Pose wings held open at a three-quarter angle so orange upper forewings and patterned eye-spotted hindwing underside are both readable. Short plump brown insect body, two clubbed antennae, six folded insect legs, friendly tiny eyes. No tails.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Painted Lady butterfly with warm salmon-orange and black patterned forewings, black forewing tips containing white patches, mottled cream-tan and brown hindwing undersides carrying four to five small round eyespots. Pose wings held open at a three-quarter angle so orange upper forewings and patterned eye-spotted hindwing underside are both readable. Short plump brown insect body, two clubbed antennae, six folded insect legs, friendly tiny eyes. No tails. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-78435fc01b92.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "0a4bb95e23d2ee605b149a53ee4f4aa77f93349ebc050fdc38eaf69c4941efd3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      81,
+      77,
+      1217,
+      1176
+    ]
+  },
+  {
+    "index": 48,
+    "assetID": "a-86836719a469",
+    "name": "Audubon's Warbler",
+    "scientificName": "Setophaga coronata auduboni",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-365887212-668050487.jpg",
+    "sourceRecordID": 365887212,
+    "traits": "An Audubon's Warbler with blue-gray crown and back, yellow crown spot, bright yellow throat, yellow side patches and yellow rump, contrasting black upper breast and cheek patches, white belly with black streaks and two white wing bars. Small slender pointed dark bill and two delicate bird feet. Round adorable compact songbird with one wing waving slightly. Ignore the loose blue feather in the reference bird's beak; include no carried objects.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. An Audubon's Warbler with blue-gray crown and back, yellow crown spot, bright yellow throat, yellow side patches and yellow rump, contrasting black upper breast and cheek patches, white belly with black streaks and two white wing bars. Small slender pointed dark bill and two delicate bird feet. Round adorable compact songbird with one wing waving slightly. Ignore the loose blue feather in the reference bird's beak; include no carried objects. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-86836719a469.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "94be6048d0c613e2ecfe2047d32bd2acdb572276a4d05cd93f07b2726a38e951",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      30,
+      163,
+      1227,
+      1148
+    ]
+  },
+  {
+    "index": 50,
+    "assetID": "a-f9a4dbaf0736",
+    "name": "Western Pygmy-Blue",
+    "scientificName": "Brephidium exilis",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-3068331-3535513.jpg",
+    "sourceRecordID": 3068331,
+    "traits": "A Western Pygmy-Blue butterfly with tiny rounded wings, warm copper-brown outer wing fields, blue-gray wing bases and furry body, thin white fringe, a row of tiny black spots around hindwing margins. Follow the tawny orange-brown with blue-gray bases in Image 2 rather than all-over blue. Two short clubbed antennae, six folded insect legs, tiny dark friendly eyes, open-wing three-quarter hovering pose. No tails or large red patches.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Western Pygmy-Blue butterfly with tiny rounded wings, warm copper-brown outer wing fields, blue-gray wing bases and furry body, thin white fringe, a row of tiny black spots around hindwing margins. Follow the tawny orange-brown with blue-gray bases in Image 2 rather than all-over blue. Two short clubbed antennae, six folded insect legs, tiny dark friendly eyes, open-wing three-quarter hovering pose. No tails or large red patches. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-f9a4dbaf0736.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "11ce4a8384dd786551f39f9edc8f482f301173acc8243216fba3c4f2aaa3d8cb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      85,
+      133,
+      1200,
+      1048
+    ]
+  },
+  {
+    "index": 53,
+    "assetID": "a-cb6052fe6ff4",
+    "name": "Turkey Vulture",
+    "scientificName": "Cathartes aura",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-60592373-96897308.jpg",
+    "sourceRecordID": 60592373,
+    "traits": "A Turkey Vulture bird with a broad chunky dark brown-black feathered body, a small bare muted red head, pale ivory hooked bill, gray bird feet, broad wings with contrasting silvery-gray flight feathers and a relatively short tail. Wings held half open in a welcoming pose, cute rounded anatomy and a gentle bird expression. Keep the small red bare head clearly separate from black feather body, no bald eagle colors.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Turkey Vulture bird with a broad chunky dark brown-black feathered body, a small bare muted red head, pale ivory hooked bill, gray bird feet, broad wings with contrasting silvery-gray flight feathers and a relatively short tail. Wings held half open in a welcoming pose, cute rounded anatomy and a gentle bird expression. Keep the small red bare head clearly separate from black feather body, no bald eagle colors. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-cb6052fe6ff4.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "57f19de1e0bcd1f693695172f9024694c0ac80983045db40de39f42b7f5ba0d3",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      21,
+      124,
+      1235,
+      1167
+    ]
+  },
+  {
+    "index": 56,
+    "assetID": "a-36708606c149",
+    "name": "Black Swallowtail",
+    "scientificName": "Papilio polyxenes",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-66598946-107399182.jpg",
+    "sourceRecordID": 66598946,
+    "traits": "A Black Swallowtail butterfly with four black wings, curved rows of small pale yellow spots, blue powdery accents on lower hindwings, a small orange-red eyespot on each hindwing near the body, and one long slim swallowtail extension per hindwing. A short plump black insect body with subtle yellow side spots, two clubbed antennae, six folded legs. Wings open, rounded tips while retaining swallowtail shape, friendly tiny eyes. Preserve the predominantly black yellow-spotted pattern.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Black Swallowtail butterfly with four black wings, curved rows of small pale yellow spots, blue powdery accents on lower hindwings, a small orange-red eyespot on each hindwing near the body, and one long slim swallowtail extension per hindwing. A short plump black insect body with subtle yellow side spots, two clubbed antennae, six folded legs. Wings open, rounded tips while retaining swallowtail shape, friendly tiny eyes. Preserve the predominantly black yellow-spotted pattern. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-36708606c149.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "91529b4dd029dc0a14cbebe93c34bd5cb40cb267b4583d19f6af9912c8a1f03f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      106,
+      149,
+      1218,
+      1140
+    ]
+  },
+  {
+    "index": 59,
+    "assetID": "a-46f6291871ea",
+    "name": "Brown-headed Cowbird",
+    "scientificName": "Molothrus ater",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-36205657-57203706.jpg",
+    "sourceRecordID": 36205657,
+    "traits": "A Brown-headed Cowbird, typical adult male plumage for species recognizability: warm chocolate-brown rounded head with a compact charcoal-black bird body, a short thick conical gray-black seed-eating bill, dark wings and relatively short tail, two dark bird feet. The supplied pale unusual individual is biological shape reference only; use the species' standard adult male brown-head/black-body plumage. Round friendly standing songbird pose with a small head tilt and natural small eyes.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Brown-headed Cowbird, typical adult male plumage for species recognizability: warm chocolate-brown rounded head with a compact charcoal-black bird body, a short thick conical gray-black seed-eating bill, dark wings and relatively short tail, two dark bird feet. The supplied pale unusual individual is biological shape reference only; use the species' standard adult male brown-head/black-body plumage. Round friendly standing songbird pose with a small head tilt and natural small eyes. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-46f6291871ea.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "da7a1d0c5e0b1a98450d80770214c9061495af2a5cbfa9aa93292c18e8e45a46",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      155,
+      168,
+      1097,
+      1164
+    ]
+  },
+  {
+    "index": 63,
+    "assetID": "a-e5d77df47dc5",
+    "name": "Verdin",
+    "scientificName": "Auriparus flaviceps",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-253409425-453733455.jpeg",
+    "sourceRecordID": 253409425,
+    "traits": "A Verdin bird with a tiny rounded body, plain pale ash-gray back and wings, whitish-gray belly, a distinctive soft yellow head and face, and a tiny chestnut-red shoulder patch. Slender dark pointed bill, longish thin dark tail and two delicate dark bird feet. Cute three-quarter standing pose with one wing raised just enough to reveal the chestnut shoulder. No crest and no yellow all-over body.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Verdin bird with a tiny rounded body, plain pale ash-gray back and wings, whitish-gray belly, a distinctive soft yellow head and face, and a tiny chestnut-red shoulder patch. Slender dark pointed bill, longish thin dark tail and two delicate dark bird feet. Cute three-quarter standing pose with one wing raised just enough to reveal the chestnut shoulder. No crest and no yellow all-over body. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-e5d77df47dc5.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "afb0ca71e737d34007712341f6679c40c1bab19937ddd0c9ea04f9e99c66132b",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      84,
+      183,
+      1200,
+      1111
+    ]
+  },
+  {
+    "index": 64,
+    "assetID": "a-4808ae178e1b",
+    "name": "Red Admiral",
+    "scientificName": "Vanessa atalanta",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-54561757-86822068.jpg",
+    "sourceRecordID": 54561757,
+    "traits": "A Red Admiral butterfly with deep blackish-brown four wings, a bold red-orange diagonal band across each forewing, red-orange border along each hindwing, and white spots near the forewing tips. Softly scalloped wing edges, a short plump charcoal insect body, two clubbed antennae, six folded stylized insect legs. Open wings in gentle three-quarter hover, tiny friendly eyes. Keep the red bands very distinct against nearly black ground.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Red Admiral butterfly with deep blackish-brown four wings, a bold red-orange diagonal band across each forewing, red-orange border along each hindwing, and white spots near the forewing tips. Softly scalloped wing edges, a short plump charcoal insect body, two clubbed antennae, six folded stylized insect legs. Open wings in gentle three-quarter hover, tiny friendly eyes. Keep the red bands very distinct against nearly black ground. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-4808ae178e1b.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "5bd98f50d7eea3e3e5e5bb669d3b4bd5b7f392dcd7e7e922599fca26c51ef1bf",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      64,
+      125,
+      1240,
+      1133
+    ]
+  },
+  {
+    "index": 68,
+    "assetID": "a-7635bd834f66",
+    "scientificName": "Calypte anna",
+    "name": "Anna's Hummingbird",
+    "kind": "bird",
+    "sourceRecordID": 250218495,
+    "filename": "a-7635bd834f66.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "emerald-sage back and wings",
+      "gray breast",
+      "magenta crown and flared gorget",
+      "long slender straight dark bill",
+      "pointed hummingbird tail",
+      "hovering with two wings"
+    ],
+    "exactPrompt": "Use case: style-transfer. Create one collectible species character asset for the NatureRelay iOS app. Input Image 1 is the A-style edit target: transform its entire organism into Anna's Hummingbird (Calypte anna). Image 2 is supporting biological reference for the real species; preserve its actual defining plumage. Keep Image 1's exceptionally polished tactile matte sculpted soft-vinyl 3D character language, warm soft light, rounded chunky short body, tiny friendly dark brown oval eyes, subtly smiling beak, and cozy lovable personality. The body IS a bird, never a humanoid wearing a flower. Species design: tiny round hummingbird with emerald/sage green back and wings, soft gray breast, brilliant pink-magenta crown and flared throat gorget as in reference, long slim straight dark needle bill, narrow short pointed tail, two small realistic tucked bird feet. Pose hovering with two distinct softly rounded wings raised outward and a curious gentle face in front three-quarter view, with clear hummingbird silhouette. Beak may be simplified a little but must remain long and slender. Use softly sculpted overlapping feathers with delicate tactile texture, not photorealistic feather noise. Entire silhouette including bill, wing tips, tail, and feet within the central 80% of a square canvas, generous clear margin. Genuinely transparent background and transparent outside the silhouette, no opaque backdrop, no floor shadow. No flower, hat, clothing, scenery, perch, text, label, border, logo, watermark or extra objects. One character only. Result should feel like Image 1's sibling designed specifically from a real Anna's Hummingbird.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sha256": "c7ef4d1fc3c3d63a48bc39295e00bfdbb57a58c117d3f6969567f6f78fbbb174",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 70,
+    "assetID": "a-fac2b6601a2c",
+    "name": "California Tortoiseshell",
+    "scientificName": "Nymphalis californica",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-363792117-664090900.jpg",
+    "sourceRecordID": 363792117,
+    "traits": "A California Tortoiseshell butterfly with burnt orange upper wings, chunky black spots across the forewings, wide irregular dark chocolate borders with subtle pale blue speckles at the outer edge, deeply but softly scalloped hindwings. Short plush dark brown insect body, two clubbed antennae, six folded insect legs, gentle small eyes and smile. Open wings nearly frontal so the orange and irregular black tortoiseshell pattern are clear.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A California Tortoiseshell butterfly with burnt orange upper wings, chunky black spots across the forewings, wide irregular dark chocolate borders with subtle pale blue speckles at the outer edge, deeply but softly scalloped hindwings. Short plush dark brown insect body, two clubbed antennae, six folded insect legs, gentle small eyes and smile. Open wings nearly frontal so the orange and irregular black tortoiseshell pattern are clear. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-fac2b6601a2c.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "896b38a205b1e943f1ab81ccea0853d4231abaec8d7e05fe9c5a737363a12298",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      19,
+      170,
+      1239,
+      1062
+    ]
+  },
+  {
+    "index": 73,
+    "assetID": "a-cd38412c078a",
+    "name": "American Osprey",
+    "scientificName": "Pandion haliaetus carolinensis",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-385133495-705049393.jpg",
+    "sourceRecordID": 385133495,
+    "traits": "An American Osprey with white head and belly, bold dark brown eye stripe on each side, dark brown folded back and wings with pale feather edges, a strong black sharply hooked bill and muted blue-gray bird feet. Round friendly raptor body, slightly raised wings, a few soft crest feathers on the head, small friendly eyes with warm golden iris accents. Three-quarter standing pose. Include only osprey anatomy, no fish or perch.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. An American Osprey with white head and belly, bold dark brown eye stripe on each side, dark brown folded back and wings with pale feather edges, a strong black sharply hooked bill and muted blue-gray bird feet. Round friendly raptor body, slightly raised wings, a few soft crest feathers on the head, small friendly eyes with warm golden iris accents. Three-quarter standing pose. Include only osprey anatomy, no fish or perch. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-cd38412c078a.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "82d64d04eb72e180cd4fbebe8cf603df4e0caff648a5835ad95aace2c87bc57d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      139,
+      107,
+      1117,
+      1198
+    ]
+  },
+  {
+    "index": 76,
+    "assetID": "a-541535092651",
+    "name": "Queen",
+    "scientificName": "Danaus gilippus",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-336746228-612006886.jpg",
+    "sourceRecordID": 336746228,
+    "traits": "A Queen butterfly with rich cinnamon-russet orange wings, much darker brown-black outer borders containing two rows of tiny white spots and larger white flecks toward forewing tips; relatively plain orange wing fields with fine dark veins. Short plump charcoal insect body dotted with white, two clubbed antennae, six folded legs. Open wings warmly tilted forward, rounded shapes and tiny friendly eyes. Only the adult butterfly from the photo; exclude caterpillar and plant.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Queen butterfly with rich cinnamon-russet orange wings, much darker brown-black outer borders containing two rows of tiny white spots and larger white flecks toward forewing tips; relatively plain orange wing fields with fine dark veins. Short plump charcoal insect body dotted with white, two clubbed antennae, six folded legs. Open wings warmly tilted forward, rounded shapes and tiny friendly eyes. Only the adult butterfly from the photo; exclude caterpillar and plant. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-541535092651.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "6105abc48827b6e58621993bf3d060586002246677fa0a0cbb96dc8cfb9ee078",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      33,
+      99,
+      1240,
+      1154
+    ]
+  },
+  {
+    "index": 78,
+    "assetID": "a-8d5f89c09068",
+    "name": "Pacific Acorn Woodpecker",
+    "scientificName": "Melanerpes formicivorus bairdi",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-335766570-610032476.jpg",
+    "sourceRecordID": 335766570,
+    "traits": "A Pacific Acorn Woodpecker, typical species coloration for recognizability: crimson red cap, creamy white forehead and cheeks, black face around beak, pale yellow-white throat, black upper breast and back, pale cream belly with subtle black streaks, long straight chisel-shaped dark bill, two gray zygodactyl bird feet and a short stiff tail. The supplied unusually pale individual is shape reference only; render the usual black-white-red adult plumage. Cute round upright three-quarter pose, one wing slightly lifted, no tree or acorn.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Pacific Acorn Woodpecker, typical species coloration for recognizability: crimson red cap, creamy white forehead and cheeks, black face around beak, pale yellow-white throat, black upper breast and back, pale cream belly with subtle black streaks, long straight chisel-shaped dark bill, two gray zygodactyl bird feet and a short stiff tail. The supplied unusually pale individual is shape reference only; render the usual black-white-red adult plumage. Cute round upright three-quarter pose, one wing slightly lifted, no tree or acorn. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-8d5f89c09068.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "31ad2314bbc75b66fa02938a5af90ff9da1602b5697a08f6dad73ff6d354d465",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      109,
+      127,
+      1193,
+      1191
+    ]
+  },
+  {
+    "index": 83,
+    "assetID": "a-48577114c918",
+    "name": "Northern Mockingbird",
+    "scientificName": "Mimus polyglottos",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-143640028-246376554.jpg",
+    "sourceRecordID": 143640028,
+    "traits": "A Northern Mockingbird with slate-gray back and head, pale gray-white breast and belly, two white wing bars and large white wing patches visible as the rounded wings open slightly, long dark tail with white outer feathers, a slender slightly downcurved black bill and dark bird feet. Round compact songbird shape with an alert cheerful head tilt. Show the bird calmly above an empty transparent background; exclude the reference bath, water splashes and plants.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Northern Mockingbird with slate-gray back and head, pale gray-white breast and belly, two white wing bars and large white wing patches visible as the rounded wings open slightly, long dark tail with white outer feathers, a slender slightly downcurved black bill and dark bird feet. Round compact songbird shape with an alert cheerful head tilt. Show the bird calmly above an empty transparent background; exclude the reference bath, water splashes and plants. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-48577114c918.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "3ad10acbe7fe1e5139b2dd2623b92ae5ea1aa637e79d2c8e780d013613199325",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      69,
+      138,
+      1211,
+      1176
+    ]
+  },
+  {
+    "index": 84,
+    "assetID": "a-bcac3630c248",
+    "name": "Anise Swallowtail",
+    "scientificName": "Papilio zelicaon",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-173325997-300989790.jpeg",
+    "sourceRecordID": 173325997,
+    "traits": "An Anise Swallowtail butterfly with creamy pale yellow wings heavily outlined and veined in black, broad black forewing outer margins with yellow spots, a black hindwing band dusted with blue spots, orange-red eyespot at the inner rear of each hindwing and two long tapered swallowtail tails. Black short plump insect body with yellow side stripes, two clubbed antennae, six folded legs. Wings open frontal, soft rounded forms while preserving the yellow-black swallowtail identity.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. An Anise Swallowtail butterfly with creamy pale yellow wings heavily outlined and veined in black, broad black forewing outer margins with yellow spots, a black hindwing band dusted with blue spots, orange-red eyespot at the inner rear of each hindwing and two long tapered swallowtail tails. Black short plump insect body with yellow side stripes, two clubbed antennae, six folded legs. Wings open frontal, soft rounded forms while preserving the yellow-black swallowtail identity. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-bcac3630c248.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "1ba64cafd35476d740956c5191665d4f0e4c74c3e0fdc92c72fcffe04025a3de",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      21,
+      212,
+      1239,
+      1104
+    ]
+  },
+  {
+    "index": 88,
+    "assetID": "a-8985a2aad810",
+    "name": "California Quail",
+    "scientificName": "Callipepla californica",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-193261218-339473021.jpg",
+    "sourceRecordID": 193261218,
+    "traits": "A California Quail male with a single forward-curving comma-shaped dark head plume, slate blue-gray breast, warm brown crown, a black face and throat framed by a bold white border, buff belly marked with black scalloped scale patterns and brown flanks streaked white. Short sturdy dark bill, plump ground-bird body, small dark tail and two sturdy muted gray bird feet. Gentle three-quarter standing pose with a head tilt; plume fully visible.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A California Quail male with a single forward-curving comma-shaped dark head plume, slate blue-gray breast, warm brown crown, a black face and throat framed by a bold white border, buff belly marked with black scalloped scale patterns and brown flanks streaked white. Short sturdy dark bill, plump ground-bird body, small dark tail and two sturdy muted gray bird feet. Gentle three-quarter standing pose with a head tilt; plume fully visible. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-8985a2aad810.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "1aad7ff9f48beb556bd6ca6b56044f103eb17aecb29145db53891d898c7f5944",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      158,
+      100,
+      1114,
+      1178
+    ]
+  },
+  {
+    "index": 90,
+    "assetID": "a-4e535f2e0b6c",
+    "name": "Mojave Sootywing",
+    "scientificName": "Hesperopsis libya",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-208212409-368368464.jpg",
+    "sourceRecordID": 208212409,
+    "traits": "A Mojave Sootywing skipper butterfly closely matching Image 2: small broad rounded dark chocolate-brown wings with a few tiny white translucent forewing spots, delicate pale gray checkered fringe and very subtle smoky gray mottling near margins. Short stout fuzzy charcoal insect body, two clubbed bent-tip antennae, six folded legs. Wings open in a shallow V, tiny friendly eyes, warm lovable tactile sculpting. Do not turn it blue, orange, pink or a swallowtail.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Mojave Sootywing skipper butterfly closely matching Image 2: small broad rounded dark chocolate-brown wings with a few tiny white translucent forewing spots, delicate pale gray checkered fringe and very subtle smoky gray mottling near margins. Short stout fuzzy charcoal insect body, two clubbed bent-tip antennae, six folded legs. Wings open in a shallow V, tiny friendly eyes, warm lovable tactile sculpting. Do not turn it blue, orange, pink or a swallowtail. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-4e535f2e0b6c.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "6564ff03f5242956056608528ec68beae53b36e119f5e56458c06f13348d8783",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      50,
+      222,
+      1223,
+      1040
+    ]
+  },
+  {
+    "index": 92,
+    "assetID": "a-86301e2989a0",
+    "name": "California Scrub-Jay",
+    "scientificName": "Aphelocoma californica",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-144885874-248774166.jpeg",
+    "sourceRecordID": 144885874,
+    "traits": "A California Scrub-Jay with a rounded crestless blue head, rich azure-blue wings and long blue tail, warm gray-brown mantle, white throat and pale gray-white belly, a blue neck band and a straight sturdy black bill. Small dark friendly eyes in the bird's natural positions, two gray-black bird feet. Plump compact three-quarter standing pose with one wing slightly raised; no tall crest, no branches.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A California Scrub-Jay with a rounded crestless blue head, rich azure-blue wings and long blue tail, warm gray-brown mantle, white throat and pale gray-white belly, a blue neck band and a straight sturdy black bill. Small dark friendly eyes in the bird's natural positions, two gray-black bird feet. Plump compact three-quarter standing pose with one wing slightly raised; no tall crest, no branches. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-86301e2989a0.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "d498d2f401f02a6517cd37a88be5af69b80dcb2ed411a6839309ea76979a39e0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      59,
+      225,
+      1223,
+      1164
+    ]
+  },
+  {
+    "index": 96,
+    "assetID": "a-4d8427894e9b",
+    "name": "Comstock's Fritillary",
+    "scientificName": "Argynnis callippe comstocki",
+    "kind": "butterfly",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-79872796-130858178.jpg",
+    "sourceRecordID": 79872796,
+    "traits": "A Comstock's Fritillary butterfly with bright warm orange wings covered in rows of bold black spots and black curving chevrons, black edge lines and a double row of small warm yellow-orange marginal spots. Broad rounded four wings, slight scalloped hindwings, a short warm-brown plump insect body, two clubbed antennae and six folded insect legs. Open-wing gentle three-quarter hovering pose; keep the actual orange and dense black pattern in Image 2.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Comstock's Fritillary butterfly with bright warm orange wings covered in rows of bold black spots and black curving chevrons, black edge lines and a double row of small warm yellow-orange marginal spots. Broad rounded four wings, slight scalloped hindwings, a short warm-brown plump insect body, two clubbed antennae and six folded insect legs. Open-wing gentle three-quarter hovering pose; keep the actual orange and dense black pattern in Image 2. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-4d8427894e9b.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "62019a80747414284008ef09b34fff9112e2cd346813b68fd95853f216de574d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      75,
+      110,
+      1223,
+      1138
+    ]
+  },
+  {
+    "index": 99,
+    "assetID": "a-d1623b6b14ee",
+    "name": "Bullock's Oriole",
+    "scientificName": "Icterus bullockii",
+    "kind": "bird",
+    "sourcePhotoPath": "Resources/CaliforniaCatalog/photos/inat-120281733-203420079.jpg",
+    "sourceRecordID": 120281733,
+    "traits": "A Bullock's Oriole bird, select the small orange bird on the LEFT of Image 2 and completely exclude the owl on the right. Bright rich golden-orange face, belly and breast, black crown and black throat bib and eye line, black wings with a large white wing patch, black-and-orange tail and slender pointed dark bill. Compact round friendly songbird, two gray bird feet, one small wing lifted. All anatomy and plumage must be Bullock's Oriole, no owl facial disc.",
+    "exactPrompt": "Use case: style-transfer. Create ONE finished collectible species character PNG for NatureRelay. Image 1 is A-style edit target: transform its entire organism into the species described below, retaining its polished tactile matte sculpted soft-vinyl 3D language, soft warm studio light, rounded chunky short body and cozy lovable personality. Image 2 is supporting real biological species reference; take identifying shape and color markings, never the background. Small friendly brown oval eyes and a subtle smile integrated naturally into organism anatomy, soft sculpted details, refined high quality. BODY IS THE ACTUAL ORGANISM; never humanoid wearing a flower hat. Keep a cohesive sibling style with Image 1 while changing every biological form required for this species. A Bullock's Oriole bird, select the small orange bird on the LEFT of Image 2 and completely exclude the owl on the right. Bright rich golden-orange face, belly and breast, black crown and black throat bib and eye line, black wings with a large white wing patch, black-and-orange tail and slender pointed dark bill. Compact round friendly songbird, two gray bird feet, one small wing lifted. All anatomy and plumage must be Bullock's Oriole, no owl facial disc. Composition: one full-body character in the center of a square canvas, ENTIRE silhouette in central 75% area, substantial clear empty margin on ALL FOUR sides including antennae, wing tips, tail, feet and beak. Zoom out enough. GENUINE transparent alpha background and transparency outside silhouette; no colored backdrop, no vignette or floor shadow. No scenery, ground, flowers, hat, clothing, tools, text, label, border, watermark, extra creatures or props. One character only. Preserve each species's actual characteristic colors; never copy orange flower petals from Image 1. Do not crop any part. MATERIAL PRIORITY: soft matte sculpted vinyl / hand-finished collectible toy, broad clean rounded feather groups or smooth wing panels with subtle tactile surface. Avoid photorealistic individual feather filaments, fur strands, realistic plumage fuzz, noisy microtexture, overly realistic anatomy or glossy plastic. Overall as simple, soft and rounded as Image 1.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "filename": "a-d1623b6b14ee.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "sha256": "40df354feb4c05199ef7026f05240a29b7df02e0ebbacd5ecb11a4e13898091e",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "visibleBBox": [
+      20,
+      220,
+      1237,
+      1119
+    ]
+  }
+]

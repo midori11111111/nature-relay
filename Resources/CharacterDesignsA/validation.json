@@ -1,0 +1,13 @@
+{
+  "expected": 100,
+  "generated": 100,
+  "uniqueScientificNames": 100,
+  "uniqueImageHashes": 100,
+  "allTransparentRGBA": true,
+  "allSourceIDsMatched": true,
+  "allOriginalPhotoHashesUnchanged": true,
+  "complete": true,
+  "missing": [],
+  "runtimePaidRequests": 0,
+  "generationMode": "Built-in image generation; not an app API batch"
+}

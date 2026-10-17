@@ -1,0 +1,172 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+/* Begin PBXBuildFile section */
+		AB0100000000000000000011 = {isa = PBXBuildFile; fileRef = AB0100000000000000000010 /* CaliforniaCatalog.swift */; };
+		AB0100000000000000000013 = {isa = PBXBuildFile; fileRef = AB0100000000000000000012 /* CampusSightingsView.swift */; };
+		AB0100000000000000000015 = {isa = PBXBuildFile; fileRef = AB0100000000000000000014 /* CaptureView.swift */; };
+		AB0100000000000000000017 = {isa = PBXBuildFile; fileRef = AB0100000000000000000016 /* CharacterArt.swift */; };
+		AB0100000000000000000019 = {isa = PBXBuildFile; fileRef = AB0100000000000000000018 /* CommunityMapping.swift */; };
+		AB010000000000000000001B = {isa = PBXBuildFile; fileRef = AB010000000000000000001A /* CommunityViews.swift */; };
+		AB010000000000000000001D = {isa = PBXBuildFile; fileRef = AB010000000000000000001C /* DeviceVerification.swift */; };
+		AB010000000000000000001F = {isa = PBXBuildFile; fileRef = AB010000000000000000001E /* ExploreMapView.swift */; };
+		AB0100000000000000000021 = {isa = PBXBuildFile; fileRef = AB0100000000000000000020 /* FreeStickerAIService.swift */; };
+		AB0100000000000000000023 = {isa = PBXBuildFile; fileRef = AB0100000000000000000022 /* LiveNatureCameraView.swift */; };
+		AB0100000000000000000025 = {isa = PBXBuildFile; fileRef = AB0100000000000000000024 /* LocationService.swift */; };
+		AB0100000000000000000027 = {isa = PBXBuildFile; fileRef = AB0100000000000000000026 /* Models.swift */; };
+		AB0100000000000000000029 = {isa = PBXBuildFile; fileRef = AB0100000000000000000028 /* NatureRelayApp.swift */; };
+		AB010000000000000000002B = {isa = PBXBuildFile; fileRef = AB010000000000000000002A /* PhotoLibraryMetadataService.swift */; };
+		AB010000000000000000002D = {isa = PBXBuildFile; fileRef = AB010000000000000000002C /* PhotoRecognitionService.swift */; };
+		AB010000000000000000002F = {isa = PBXBuildFile; fileRef = AB010000000000000000002E /* PlantIdentificationService.swift */; };
+		AB0100000000000000000031 = {isa = PBXBuildFile; fileRef = AB0100000000000000000030 /* RelayStore.swift */; };
+		AB0100000000000000000033 = {isa = PBXBuildFile; fileRef = AB0100000000000000000032 /* SocialAPIService.swift */; };
+		AB0100000000000000000035 = {isa = PBXBuildFile; fileRef = AB0100000000000000000034 /* SocialViews.swift */; };
+		AB0100000000000000000037 = {isa = PBXBuildFile; fileRef = AB0100000000000000000036 /* SpeciesACollection.swift */; };
+		AB0100000000000000000039 = {isa = PBXBuildFile; fileRef = AB0100000000000000000038 /* SpeciesCharacterCatalog.swift */; };
+		AB010000000000000000003B = {isa = PBXBuildFile; fileRef = AB010000000000000000003A /* SpeciesCharacters */; };
+		AB010000000000000000003D = {isa = PBXBuildFile; fileRef = AB010000000000000000003C /* SpeciesCharactersA */; };
+		AB010000000000000000003F = {isa = PBXBuildFile; fileRef = AB010000000000000000003E /* NatureRelayConfig.json */; };
+		AB0100000000000000000041 = {isa = PBXBuildFile; fileRef = AB0100000000000000000040 /* ../Resources/character-asset-credits.json */; };
+		AB0100000000000000000043 = {isa = PBXBuildFile; fileRef = AB0100000000000000000042 /* ../Resources/CaliforniaCatalog */; };
+		AB0100000000000000000045 = {isa = PBXBuildFile; fileRef = AB0100000000000000000044 /* MobileNetV2FP16.mlmodelc */; };
+		AB0100000000000000000047 = {isa = PBXBuildFile; fileRef = AB0100000000000000000046 /* Assets.xcassets */; };
+		AB0100000000000000000049 = {isa = PBXBuildFile; fileRef = AB0100000000000000000048 /* PrivacyInfo.xcprivacy */; };
+/* End PBXBuildFile section */
+/* Begin PBXFileReference section */
+		AB0100000000000000000006 /* NatureRelay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NatureRelay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB0100000000000000000010 /* CaliforniaCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CaliforniaCatalog.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000012 /* CampusSightingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CampusSightingsView.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000014 /* CaptureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CaptureView.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000016 /* CharacterArt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CharacterArt.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000018 /* CommunityMapping.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CommunityMapping.swift"; sourceTree = "<group>"; };
+		AB010000000000000000001A /* CommunityViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CommunityViews.swift"; sourceTree = "<group>"; };
+		AB010000000000000000001C /* DeviceVerification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DeviceVerification.swift"; sourceTree = "<group>"; };
+		AB010000000000000000001E /* ExploreMapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ExploreMapView.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000020 /* FreeStickerAIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FreeStickerAIService.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000022 /* LiveNatureCameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LiveNatureCameraView.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000024 /* LocationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LocationService.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000026 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Models.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000028 /* NatureRelayApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NatureRelayApp.swift"; sourceTree = "<group>"; };
+		AB010000000000000000002A /* PhotoLibraryMetadataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PhotoLibraryMetadataService.swift"; sourceTree = "<group>"; };
+		AB010000000000000000002C /* PhotoRecognitionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PhotoRecognitionService.swift"; sourceTree = "<group>"; };
+		AB010000000000000000002E /* PlantIdentificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PlantIdentificationService.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000030 /* RelayStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RelayStore.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000032 /* SocialAPIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SocialAPIService.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000034 /* SocialViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SocialViews.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000036 /* SpeciesACollection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SpeciesACollection.swift"; sourceTree = "<group>"; };
+		AB0100000000000000000038 /* SpeciesCharacterCatalog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SpeciesCharacterCatalog.swift"; sourceTree = "<group>"; };
+		AB010000000000000000003A /* SpeciesCharacters */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "SpeciesCharacters"; sourceTree = "<group>"; };
+		AB010000000000000000003C /* SpeciesCharactersA */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "SpeciesCharactersA"; sourceTree = "<group>"; };
+		AB010000000000000000003E /* NatureRelayConfig.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "NatureRelayConfig.json"; sourceTree = "<group>"; };
+		AB0100000000000000000040 /* ../Resources/character-asset-credits.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "../Resources/character-asset-credits.json"; sourceTree = "<group>"; };
+		AB0100000000000000000042 /* ../Resources/CaliforniaCatalog */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "../Resources/CaliforniaCatalog"; sourceTree = "<group>"; };
+		AB0100000000000000000044 /* MobileNetV2FP16.mlmodelc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "MobileNetV2FP16.mlmodelc"; sourceTree = "<group>"; };
+		AB0100000000000000000046 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		AB0100000000000000000048 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PrivacyInfo.xcprivacy"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+/* Begin PBXFrameworksBuildPhase section */
+		AB0100000000000000000009 = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXFrameworksBuildPhase section */
+/* Begin PBXGroup section */
+		AB0100000000000000000002 = {isa = PBXGroup; children = (
+			AB0100000000000000000004 /* NatureRelay */,
+			AB0100000000000000000003 /* Products */,
+		); sourceTree = "<group>"; };
+		AB0100000000000000000003 /* Products */ = {isa = PBXGroup; children = (
+			AB0100000000000000000006 /* NatureRelay.app */,
+		); name = Products; sourceTree = "<group>"; };
+		AB0100000000000000000004 /* NatureRelay */ = {isa = PBXGroup; children = (
+			AB0100000000000000000010 /* CaliforniaCatalog.swift */,
+			AB0100000000000000000012 /* CampusSightingsView.swift */,
+			AB0100000000000000000014 /* CaptureView.swift */,
+			AB0100000000000000000016 /* CharacterArt.swift */,
+			AB0100000000000000000018 /* CommunityMapping.swift */,
+			AB010000000000000000001A /* CommunityViews.swift */,
+			AB010000000000000000001C /* DeviceVerification.swift */,
+			AB010000000000000000001E /* ExploreMapView.swift */,
+			AB0100000000000000000020 /* FreeStickerAIService.swift */,
+			AB0100000000000000000022 /* LiveNatureCameraView.swift */,
+			AB0100000000000000000024 /* LocationService.swift */,
+			AB0100000000000000000026 /* Models.swift */,
+			AB0100000000000000000028 /* NatureRelayApp.swift */,
+			AB010000000000000000002A /* PhotoLibraryMetadataService.swift */,
+			AB010000000000000000002C /* PhotoRecognitionService.swift */,
+			AB010000000000000000002E /* PlantIdentificationService.swift */,
+			AB0100000000000000000030 /* RelayStore.swift */,
+			AB0100000000000000000032 /* SocialAPIService.swift */,
+			AB0100000000000000000034 /* SocialViews.swift */,
+			AB0100000000000000000036 /* SpeciesACollection.swift */,
+			AB0100000000000000000038 /* SpeciesCharacterCatalog.swift */,
+			AB010000000000000000003A /* SpeciesCharacters */,
+			AB010000000000000000003C /* SpeciesCharactersA */,
+			AB010000000000000000003E /* NatureRelayConfig.json */,
+			AB0100000000000000000040 /* ../Resources/character-asset-credits.json */,
+			AB0100000000000000000042 /* ../Resources/CaliforniaCatalog */,
+			AB0100000000000000000044 /* MobileNetV2FP16.mlmodelc */,
+			AB0100000000000000000046 /* Assets.xcassets */,
+			AB0100000000000000000048 /* PrivacyInfo.xcprivacy */,
+		); path = NatureRelay; sourceTree = "<group>"; };
+/* End PBXGroup section */
+/* Begin PBXNativeTarget section */
+		AB0100000000000000000005 /* NatureRelay */ = {isa = PBXNativeTarget; buildConfigurationList = AB010000000000000000000B; buildPhases = (
+			AB0100000000000000000007,
+			AB0100000000000000000009,
+			AB0100000000000000000008,
+		); buildRules = (); dependencies = (); name = NatureRelay; productName = NatureRelay; productReference = AB0100000000000000000006 /* NatureRelay.app */; productType = "com.apple.product-type.application"; };
+/* End PBXNativeTarget section */
+/* Begin PBXProject section */
+		AB0100000000000000000001 /* Project object */ = {isa = PBXProject; attributes = { BuildIndependentTargetsInParallel = 1; LastSwiftUpdateCheck = 2660; LastUpgradeCheck = 2660; TargetAttributes = { AB0100000000000000000005 = { CreatedOnToolsVersion = 26.6; }; }; }; buildConfigurationList = AB010000000000000000000A; compatibilityVersion = "Xcode 14.0"; developmentRegion = ja; hasScannedForEncodings = 0; knownRegions = (en, ja, Base); mainGroup = AB0100000000000000000002; productRefGroup = AB0100000000000000000003 /* Products */; projectDirPath = ""; projectRoot = ""; targets = ( AB0100000000000000000005 /* NatureRelay */, ); };
+/* End PBXProject section */
+/* Begin PBXResourcesBuildPhase section */
+		AB0100000000000000000008 = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (
+			AB010000000000000000003B /* SpeciesCharacters in Resources */,
+			AB010000000000000000003D /* SpeciesCharactersA in Resources */,
+			AB010000000000000000003F /* NatureRelayConfig.json in Resources */,
+			AB0100000000000000000041 /* ../Resources/character-asset-credits.json in Resources */,
+			AB0100000000000000000043 /* ../Resources/CaliforniaCatalog in Resources */,
+			AB0100000000000000000045 /* MobileNetV2FP16.mlmodelc in Resources */,
+			AB0100000000000000000047 /* Assets.xcassets in Resources */,
+			AB0100000000000000000049 /* PrivacyInfo.xcprivacy in Resources */,
+		); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXResourcesBuildPhase section */
+/* Begin PBXSourcesBuildPhase section */
+		AB0100000000000000000007 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (
+			AB0100000000000000000011 /* CaliforniaCatalog.swift in Sources */,
+			AB0100000000000000000013 /* CampusSightingsView.swift in Sources */,
+			AB0100000000000000000015 /* CaptureView.swift in Sources */,
+			AB0100000000000000000017 /* CharacterArt.swift in Sources */,
+			AB0100000000000000000019 /* CommunityMapping.swift in Sources */,
+			AB010000000000000000001B /* CommunityViews.swift in Sources */,
+			AB010000000000000000001D /* DeviceVerification.swift in Sources */,
+			AB010000000000000000001F /* ExploreMapView.swift in Sources */,
+			AB0100000000000000000021 /* FreeStickerAIService.swift in Sources */,
+			AB0100000000000000000023 /* LiveNatureCameraView.swift in Sources */,
+			AB0100000000000000000025 /* LocationService.swift in Sources */,
+			AB0100000000000000000027 /* Models.swift in Sources */,
+			AB0100000000000000000029 /* NatureRelayApp.swift in Sources */,
+			AB010000000000000000002B /* PhotoLibraryMetadataService.swift in Sources */,
+			AB010000000000000000002D /* PhotoRecognitionService.swift in Sources */,
+			AB010000000000000000002F /* PlantIdentificationService.swift in Sources */,
+			AB0100000000000000000031 /* RelayStore.swift in Sources */,
+			AB0100000000000000000033 /* SocialAPIService.swift in Sources */,
+			AB0100000000000000000035 /* SocialViews.swift in Sources */,
+			AB0100000000000000000037 /* SpeciesACollection.swift in Sources */,
+			AB0100000000000000000039 /* SpeciesCharacterCatalog.swift in Sources */,
+		); runOnlyForDeploymentPostprocessing = 0; };
+/* End PBXSourcesBuildPhase section */
+/* Begin XCBuildConfiguration section */
+		AB010000000000000000000C /* Debug */ = {isa = XCBuildConfiguration; buildSettings = { ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ANALYZER_NONNULL = YES; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; ENABLE_STRICT_OBJC_MSGSEND = YES; GCC_C_LANGUAGE_STANDARD = gnu17; CLANG_CXX_LANGUAGE_STANDARD = "gnu++20"; ENABLE_USER_SCRIPT_SANDBOXING = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_EMIT_LOC_STRINGS = YES;  GCC_OPTIMIZATION_LEVEL = 0; ONLY_ACTIVE_ARCH = YES; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG; ENABLE_TESTABILITY = YES; DEBUG_INFORMATION_FORMAT = dwarf; COPY_PHASE_STRIP = NO; }; name = Debug; };
+		AB010000000000000000000D /* Release */ = {isa = XCBuildConfiguration; buildSettings = { ALWAYS_SEARCH_USER_PATHS = NO; CLANG_ANALYZER_NONNULL = YES; CLANG_ENABLE_MODULES = YES; CLANG_ENABLE_OBJC_ARC = YES; ENABLE_STRICT_OBJC_MSGSEND = YES; GCC_C_LANGUAGE_STANDARD = gnu17; CLANG_CXX_LANGUAGE_STANDARD = "gnu++20"; ENABLE_USER_SCRIPT_SANDBOXING = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_EMIT_LOC_STRINGS = YES;  SWIFT_OPTIMIZATION_LEVEL = "-O"; SWIFT_COMPILATION_MODE = wholemodule; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; ENABLE_NS_ASSERTIONS = NO; COPY_PHASE_STRIP = NO; VALIDATE_PRODUCT = YES; }; name = Release; };
+		AB010000000000000000000E /* Debug */ = {isa = XCBuildConfiguration; buildSettings = { ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor; CODE_SIGN_STYLE = Automatic; CODE_SIGNING_REQUIRED = NO; CODE_SIGNING_ALLOWED = NO; CURRENT_PROJECT_VERSION = 5; MARKETING_VERSION = 1.0; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Nature Relay"; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait"; LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks"; PRODUCT_BUNDLE_IDENTIFIER = com.tomoki.naturerelay; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1"; ENABLE_PREVIEWS = YES; INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO; INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Find nature near you and place a discovery on your map."; INFOPLIST_KEY_NSCameraUsageDescription = "Photograph a plant or animal to create a nature discovery."; INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Read the location and date of the photo you select for your nature journal. You can allow only selected photos."; INFOPLIST_KEY_PHPhotoLibraryPreventAutomaticLimitedAccessAlert = YES;  }; name = Debug; };
+		AB010000000000000000000F /* Release */ = {isa = XCBuildConfiguration; buildSettings = { ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor; CODE_SIGN_STYLE = Automatic; CODE_SIGNING_REQUIRED = NO; CODE_SIGNING_ALLOWED = NO; CURRENT_PROJECT_VERSION = 5; MARKETING_VERSION = 1.0; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_KEY_CFBundleDisplayName = "Nature Relay"; INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES; INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait"; LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks"; PRODUCT_BUNDLE_IDENTIFIER = com.tomoki.naturerelay; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_VERSION = 5.0; TARGETED_DEVICE_FAMILY = "1"; ENABLE_PREVIEWS = YES; INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO; INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Find nature near you and place a discovery on your map."; INFOPLIST_KEY_NSCameraUsageDescription = "Photograph a plant or animal to create a nature discovery."; INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Read the location and date of the photo you select for your nature journal. You can allow only selected photos."; INFOPLIST_KEY_PHPhotoLibraryPreventAutomaticLimitedAccessAlert = YES;  }; name = Release; };
+/* End XCBuildConfiguration section */
+/* Begin XCConfigurationList section */
+		AB010000000000000000000A = {isa = XCConfigurationList; buildConfigurations = ( AB010000000000000000000C /* Debug */, AB010000000000000000000D /* Release */, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		AB010000000000000000000B = {isa = XCConfigurationList; buildConfigurations = ( AB010000000000000000000E /* Debug */, AB010000000000000000000F /* Release */, ); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+/* End XCConfigurationList section */
+	};
+	rootObject = AB0100000000000000000001 /* Project object */;
+}

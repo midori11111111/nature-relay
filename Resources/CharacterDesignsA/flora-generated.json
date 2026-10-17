@@ -1,0 +1,1023 @@
+[
+  {
+    "index": 1,
+    "assetID": "a-822a690a8c0c",
+    "scientificName": "Epilobium canum",
+    "name": "California fuchsia",
+    "kind": "flower",
+    "sourceRecordID": 190730575,
+    "filename": "a-822a690a8c0c.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Elongated scarlet tubular trumpet body",
+      "Split flaring petal lobes with protruding pale stamens",
+      "Narrow gray-green leaves and a closed scarlet bud"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay collectible species character, one square transparent PNG. Image 1 is the edit target and shared style A reference. Image 2 is a supporting biological reference photo of Epilobium canum (California fuchsia). Transform Image 1 into a completely distinct character whose body IS this organism, retaining the tactile matte sculpted soft-vinyl 3D finish, cozy warm light, two small brown friendly eyes and a tiny smile. Replace the poppy cup completely: make the primary body an elongated scarlet-red tubular trumpet flower, tapering at the top and flaring at the lower front into four clearly split petal lobes, with fine pale stamens extending past the mouth. Give it narrow gray-green lanceolate leaves as small side appendages and grounded leaf feet; add a second small red closed bud on a short leafy stem. Integrate the face subtly on the red tube above the trumpet mouth so it remains a flower, not a humanoid wearing a flower hat. Match the reference photograph's flower shape and gray-green foliage. Chunky rounded collectible silhouette with carefully sculpted petal folds. Entire single character visible, centered, occupies about 80% of square canvas with generous transparent margin on every edge. Genuine transparent alpha background. No scenery, rock, pot, floor, letters, watermark, border, generic mascot head, poppy petals or orange bowl.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/190730575",
+      "https://www.inaturalist.org/photos/334423757"
+    ],
+    "sha256": "57b073d37f3b0532b501c0cce3b3f2536dee322ce45b83ea6066570e64136b85",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 2,
+    "assetID": "a-3da8ee688cbb",
+    "scientificName": "Collomia heterophylla",
+    "name": "variableleaf collomia",
+    "kind": "flower",
+    "sourceRecordID": 170743456,
+    "filename": "a-3da8ee688cbb.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Mauve-pink five-pointed star corollas",
+      "Long pale flower tubes; mixed oval and lanceolate hairy green leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Collomia heterophylla (variableleaf collomia). Transform Image 1 completely into this distinct species. Small cluster of mauve-pink five-pointed narrow-petal star flowers with long pale slender tubes and whitish throats; broad oval and lanceolate softly hairy green leaves of different shapes. Build a compact leafy sprig body, one large front-facing five-pointed pink flower integrated as face, two smaller offset buds/flowers, broad paired leaves as feet. No cup or bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/170743456",
+      "https://www.inaturalist.org/photos/296180772"
+    ],
+    "sha256": "2e685f83f736f95be3f0bdfaed553496d7290cb82539538ffa02ebed64e8f153",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 4,
+    "assetID": "a-49e937ffbdc0",
+    "scientificName": "Calochortus argillosus",
+    "name": "clay mariposa lily",
+    "kind": "flower",
+    "sourceRecordID": 168511720,
+    "filename": "a-49e937ffbdc0.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Three broad white petals",
+      "Yellow-bordered burgundy basal blotches and hairy speckled throat"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Calochortus argillosus (clay mariposa lily). Transform Image 1 completely into this distinct species. Clay mariposa lily: exactly THREE broad white softly ruffled petals, arranged as TWO rear petals (upper-left and upper-right) and ONE lower-front curved petal bearing the tiny face. There must be no additional central rear petal: only three broad white petals total. Each petal has a distinct burgundy blotch bordered by yellow near its base and burgundy hairs/speckling in the throat, plus three narrow pointed green sepals. Entire character IS this open triangular lily flower, with slender green leaf feet and one narrow unopened bud. Strong threefold geometry with the three botanical blotches visible. Study supporting reference photo for the correct three-petal count.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/168511720",
+      "https://www.inaturalist.org/photos/292049384"
+    ],
+    "sha256": "9f3a80ea05c9018d2d729f5f8c29a5be52daba232c861490ad3f719d1dc541a8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 6,
+    "assetID": "a-fee54fe1e6d4",
+    "scientificName": "Dactylis glomerata",
+    "name": "orchard grass",
+    "kind": "plant",
+    "sourceRecordID": 170750663,
+    "filename": "a-fee54fe1e6d4.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Folded gray-green grass blades",
+      "Branched panicles with separated dense knobbly spikelet clusters"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Dactylis glomerata (orchard grass). Transform Image 1 completely into this distinct species. Orchard grass: a compact tuft of folded gray-green strap leaves supporting several stems with interrupted, branched clusters of dense pale-green spikelets. Build a low friendly grass tussock body with eyes nestled among folded basal leaf sheaths, ribbon leaf arms and feet, two tall asymmetric branching seed/flower panicles bearing chunky knobbly groups of pointed green spikelets and tiny pale anthers. The whole silhouette is an irregular grass tuft, not a flower head.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/170750663",
+      "https://www.inaturalist.org/photos/296193512"
+    ],
+    "sha256": "65d5b289cab7946fd6f3dc1e5ca46c5eaa53376cecafbcb6d164398de1d17821",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 7,
+    "assetID": "a-9d6e6a9d7e44",
+    "scientificName": "Dendroalsia abietina",
+    "name": "dendroalsia moss",
+    "kind": "plant",
+    "sourceRecordID": 198368689,
+    "filename": "a-9d6e6a9d7e44.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Olive-green miniature fir-like feathery shoots",
+      "Layered flattened sprays and fine pointed leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Dendroalsia abietina (dendroalsia moss). Transform Image 1 completely into this distinct species. Dendroalsia moss: light olive-green tiny fir-like feathery branching shoots, flattened fern-like small fronds with numerous fine pointed overlapping leaves. Build a squat layered cushion character made entirely of miniature feathery sprays, a tiered fan-shaped crown and two drooping frond arms; eyes and tiny smile embedded in central dense moss. Small mossy feet are a continuation of the cushion. Preserve fine feathery texture at toy scale, no tree trunk, no flowers.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/198368689",
+      "https://www.inaturalist.org/photos/349618903"
+    ],
+    "sha256": "925e57d34a2e664aca6bfd911e8a3fa1a34097634f4468a6d78439f18849f006",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 8,
+    "assetID": "a-765b8ba01ea7",
+    "scientificName": "Woodwardia fimbriata",
+    "name": "giant chain fern",
+    "kind": "plant",
+    "sourceRecordID": 144270631,
+    "filename": "a-765b8ba01ea7.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Arching triangular pinnate fronds",
+      "Deeply lobed serrated tapering pinnae and a curled fiddlehead"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Woodwardia fimbriata (giant chain fern). Transform Image 1 completely into this distinct species. Giant chain fern: deep green arching long triangular fronds, each pinnate with alternating long tapering pointed leaflets that are themselves deeply lobed and serrated. Build a broad compact fern rosette character: central curled emerging fiddlehead with tiny eyes on a thickened green stem base, three arching large triangular segmented fronds forming the full body and side gestures, short curled stem feet. No flower or moss tuft; distinguish the large paired deeply cut pinnae.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/144270631",
+      "https://www.inaturalist.org/photos/247577886"
+    ],
+    "sha256": "e18463002d3760e4196541af89499a47f98b9a56e23ab6055dbc584d374bd9ba",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 20,
+    "assetID": "a-e1531925bf38",
+    "scientificName": "Rosa californica",
+    "name": "California Wild Rose",
+    "kind": "flower",
+    "sourceRecordID": 3504980,
+    "filename": "a-e1531925bf38.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Five broad pink notched petals and yellow stamens",
+      "Serrated oval compound leaves; small rose hip"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Rosa californica (California Wild Rose). Transform Image 1 completely into this distinct species. California wild rose: one open single wild rose of exactly five broad pink rounded heart-notched petals, visible radial veins, central crown of numerous small yellow stamens; serrated compound leaves with oval leaflets. Make flower body broad and shallow rather than a deep cup, with tiny brown eyes on front pink petal, a tiny smile, leafy serrated arms/feet and a small reddish rose hip on a short side twig. No multilayer florist rose.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/3504980",
+      "https://www.inaturalist.org/photos/4078951"
+    ],
+    "sha256": "cfdab366c94ee1b7befc3d57ef4ed1dd47852d681aaa1991dd25413ddb8e99da",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 22,
+    "assetID": "a-85aa4ec69d44",
+    "scientificName": "Neckera menziesii",
+    "name": "Menzies' metaneckera moss",
+    "kind": "plant",
+    "sourceRecordID": 15013,
+    "filename": "a-85aa4ec69d44.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Glossy yellow-green flattened feather sprays",
+      "Closely packed wavy rounded tiny leaves in planar rows"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Neckera menziesii (Menzies' metaneckera moss). Transform Image 1 completely into this distinct species. Menzies' metaneckera moss as in Image 2: glossy yellow-green flattened feather-like branching shoots with regular tiny rippled/wavy leaves arranged in a plane, one central upright flattened spray and shorter side branches. Build a compact moss tuft character with a broad flat layered fan crown, small upright center feather and side feather sprays for arms, eyes embedded in the central dense cushion; small tapering moss feet. Distinct from fir-like dendroalsia: closely packed shiny wavy rounded leaflets like tiny crinkled scales in flat rows. No flower, tree trunk, soil or human fingers.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/15013",
+      "https://www.inaturalist.org/photos/29170"
+    ],
+    "sha256": "b88fe9bb8c13b47e794178337981363d6d238461989cc1469f6fe979a81470db",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 26,
+    "assetID": "a-24bae2fe62bb",
+    "scientificName": "Geraea canescens",
+    "name": "Desert Sunflower",
+    "kind": "flower",
+    "sourceRecordID": 118890466,
+    "filename": "a-24bae2fe62bb.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Separate long yellow rays around golden-orange disc",
+      "Fuzzy gray-green oval leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Geraea canescens (Desert Sunflower). Transform Image 1 completely into this distinct species. Desert sunflower: bright yellow daisy-like bloom, a ring of long oblong slightly toothed yellow ray florets around raised golden-orange disc florets, fuzzy gray-green broad oval lower leaves on stems. Build an entire daisy flower body with a convex golden disc face ringed by separate broad yellow rays, two fuzzy gray-green oval leaf arms and leaf feet. Preserve a flat radiant sunflower silhouette rather than poppy bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/118890466",
+      "https://www.inaturalist.org/photos/200926287"
+    ],
+    "sha256": "9f1b67e167438b205fbaf0b14dff3d5defa31cb77d03dc5ec2c1a4610215bbfa",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 29,
+    "assetID": "a-f6d1ecb02a66",
+    "scientificName": "Sedum rubiginosum",
+    "name": "Tedoc stonecrop",
+    "kind": "plant",
+    "sourceRecordID": 224808226,
+    "filename": "a-f6d1ecb02a66.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Narrow thick pale olive-green succulent leaves",
+      "Branching clusters of small golden-yellow to rusty star flowers"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Sedum rubiginosum (Tedoc stonecrop). Transform Image 1 completely into this distinct species. Tedoc stonecrop as shown in Image 2: a compact succulent with thick tapered narrow pale olive-green leaves on short stems, a branching flower stalk with small yellow-to-rusty golden five-pointed star flowers and beadlike buds. Make the main body a low chunky clustered rosette of narrow thick green leaves with a subtle warm red blush at tips, small eyes integrated into front leaves, side leaf gestures and succulent leaf feet; shortened branching yellow star-flower stalk above. Match the photographed green leaves and golden stars, do not invent a red echeveria rosette.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/224808226",
+      "https://www.inaturalist.org/photos/398477321"
+    ],
+    "sha256": "3c8edc38746fe4672186f86990bdf20d3c6275acdac04e8a37705caf961db308",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 32,
+    "assetID": "a-151b88d6393c",
+    "scientificName": "Calochortus invenustus",
+    "name": "Shy Mariposa Lily",
+    "kind": "flower",
+    "sourceRecordID": 125224960,
+    "filename": "a-151b88d6393c.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Three broad deep violet-purple petals",
+      "Bright yellow hairy throat, dark purple stamens and gray-purple bud"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Calochortus invenustus (Shy Mariposa Lily). Transform Image 1 completely into this distinct species. Shy mariposa lily matching this purple source specimen: exactly THREE broad deep violet-purple rounded petals arranged as TWO rear petals (upper-left and upper-right) and ONE lower-front curved petal that carries the tiny face. No central rear petal: only THREE broad purple petals TOTAL. Conspicuous golden-yellow hairy throat with dark purple stamens. Body IS this triangular three-petal blossom, narrow gray-green sepals and leaf feet, one gray-purple unopened side bud. Preserve deep purple petals/yellow center of Image 2; keep the silhouette a TRIANGLE of three petals, not four-part poppy bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/125224960",
+      "https://www.inaturalist.org/photos/667035062"
+    ],
+    "sha256": "8ae653e2049df4463c94dba7627c7cbe78eef869512b58c71d03b2d899c08c1f",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 35,
+    "assetID": "a-54ae6e1ed546",
+    "scientificName": "Selaginella oregana",
+    "name": "Oregon spikemoss",
+    "kind": "plant",
+    "sourceRecordID": 8755733,
+    "filename": "a-54ae6e1ed546.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Pendant branching rope-like green shoots",
+      "Tiny overlapping scale leaves and curling tassels"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Selaginella oregana (Oregon spikemoss). Transform Image 1 completely into this distinct species. Oregon spikemoss: trailing dense pendant branching green shoots with many tiny scale-like pointed leaves hugging the stems, long rope-like ferny tassels. Build a character whose whole body is a draping chandelier of olive-green branching mossy cords; central dense cluster has two small eyes and a smile, two long tassel branches gesture at sides and bottom cords curl as feet. No petals, no tree trunk, no broad fern leaflets.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/8755733",
+      "https://www.inaturalist.org/photos/11756503"
+    ],
+    "sha256": "8a1f9ef78b56f932b25aa1981b8364d753c268b7c46f0b069409758f009bf509",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 37,
+    "assetID": "a-b14d4715a2a0",
+    "scientificName": "Trillium ovatum",
+    "name": "Pacific trillium",
+    "kind": "flower",
+    "sourceRecordID": 38921878,
+    "filename": "a-b14d4715a2a0.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Three white petals and yellow stamens",
+      "Whorl of three broad pointed green leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Trillium ovatum (Pacific trillium). Transform Image 1 completely into this distinct species. Pacific trillium: exactly THREE broad white pointed petals arranged like a flat three-blade pinwheel: TWO petals stretch upper-left and upper-right, ONE petal points down-front and carries tiny friendly eyes and smile; no fourth white petal. Fine veins, central yellow stamens, three narrow green sepals. Beneath blossom a whorl of exactly THREE large dark-green ovate pointed leaves. Whole body IS the white triangular blossom resting on those three leaves, two of the leaf tips fold down as feet. Flat elegant threefold geometry, not a cup or bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/38921878",
+      "https://www.inaturalist.org/photos/61856395"
+    ],
+    "sha256": "b2768908ecd2a1c1168e4bff3736f4137bb6f8ef004fd288fa518eb492d86150",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 40,
+    "assetID": "a-728b1937b7eb",
+    "scientificName": "Dipterostemon capitatus",
+    "name": "blue dicks",
+    "kind": "flower",
+    "sourceRecordID": 105991274,
+    "filename": "a-728b1937b7eb.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Rounded cluster of six-tepal violet-blue funnels",
+      "Pale centers, narrow basal strap leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Dipterostemon capitatus (blue dicks). Transform Image 1 completely into this distinct species. Blue dicks: rounded terminal cluster of several violet-blue funnel-shaped flowers with six separate pointed tepals and pale centers, on a slender leafless scape with straplike basal leaves. Build the character as an airy rounded bouquet body of distinct six-pointed purple-blue stars, central front flower bears tiny eyes, shortened thick green scape and ribbon-shaped basal leaf feet; some unopened violet buds. No single rose cup.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/105991274",
+      "https://www.inaturalist.org/photos/177963737"
+    ],
+    "sha256": "833d1ef4d6d3d487bb9ccd80aa48596139bfa6da21287c3f9ee0fc0f8d4f4d44",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 42,
+    "assetID": "a-8a93926c3758",
+    "scientificName": "Hesperoyucca whipplei",
+    "name": "chaparral yucca",
+    "kind": "plant",
+    "sourceRecordID": 11203573,
+    "filename": "a-8a93926c3758.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Dense blue-gray radiating sword-leaf rosette",
+      "Tan spent upright stalk with tiered bare branchlets"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Hesperoyucca whipplei (chaparral yucca). Transform Image 1 completely into this distinct species. Chaparral yucca as in Image 2: dense spherical basal rosette of many long stiff very narrow blue-gray swordlike leaves, and a very tall dry tan woody flowering stalk branched in a sparse tiered panicle. Make an adorable compact radiating silver-blue sword-leaf rosette body with tiny eyes integrated between front leaves, leaf feet, and a proportionally shortened tan stalk rising behind with sparse tiered bare branchlets. Keep leaves narrow stiff and radiating, toy tips gently softened, include several dry tan lower leaves. No flowers needed because source shows spent stalk; no rocks.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/11203573",
+      "https://www.inaturalist.org/photos/15883346"
+    ],
+    "sha256": "1ed6fe4ad48d1045212b0344719ff1d26f4759865abfb1e24f769c789f5c77de",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 46,
+    "assetID": "a-29ab2247ced8",
+    "scientificName": "Trichostema lanatum",
+    "name": "woolly bluecurls",
+    "kind": "flower",
+    "sourceRecordID": 79108213,
+    "filename": "a-29ab2247ced8.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Fuzzy magenta-purple calyx clusters",
+      "Pale lavender-pink tubular blooms with long curved pink stamens"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Trichostema lanatum (woolly bluecurls). Transform Image 1 completely into this distinct species. Woolly bluecurls matching the magenta form photographed in Image 2: dense vivid magenta-purple woolly flower calyx clusters on arching tips, pale lavender-pink tubular flowers with very long gracefully curled protruding pink stamens and narrow gray-green leaves. Build a compact flowering sprig body with fuzzy magenta clustered crown and stems, front pale lavender-pink tubular flower bearing tiny face and distinct long curved stamen whiskers; narrow leaf arms and feet. Emphasize furry magenta tufts and curled pink stamens.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/79108213",
+      "https://www.inaturalist.org/photos/129539601"
+    ],
+    "sha256": "647502815fa7136b2f8c4594797fb68a87b67fa155d755ba486e4ea3cd00ded4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 49,
+    "assetID": "a-b28eef21eaba",
+    "scientificName": "Arctostaphylos glandulosa",
+    "name": "Eastwood's Manzanita",
+    "kind": "plant",
+    "sourceRecordID": 103567707,
+    "filename": "a-b28eef21eaba.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Smooth cinnamon-red branching stems and peeling pale bark patches",
+      "Small rounded-oval leathery sage-green leaves at branch tips"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Arctostaphylos glandulosa (Eastwood's Manzanita). Transform Image 1 completely into this distinct species. Eastwood's manzanita matching Image 2: smooth cinnamon-red twisting widely branching woody stems, small crowded rounded-oval leathery muted sage-green leaves concentrated at branch tips. Build a squat open-branching red-stem shrub character whose tiny face is integrated into its thick low red trunk; several sweeping red branch arms end in small rounded foliage clusters, red twig/root feet. Sculpt peeling pale bark patches subtly. The whole body IS this distinctive red branching shrub; avoid a solid generic tree ball, flowers not required.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/103567707",
+      "https://www.inaturalist.org/photos/173369265"
+    ],
+    "sha256": "773817190b28333312e6421af75ec9389191539b32d57a21da81e4fec60cfc7a",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 51,
+    "assetID": "a-ceb5d03dd44e",
+    "scientificName": "Nemacladus tenuis aliformis",
+    "name": "Winged Desert Threadplant",
+    "kind": "flower",
+    "sourceRecordID": 42929353,
+    "filename": "a-ceb5d03dd44e.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Two coral-orange curved upper lobes",
+      "Three white lower lobes with yellow tips and burgundy central column"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Nemacladus tenuis aliformis (Winged Desert Threadplant). Transform Image 1 completely into this distinct species. Winged desert threadplant matching Image 2: one tiny asymmetric open five-lobed flower: TWO narrow coral-orange upper lobes curve upward like wings, THREE lower white lobes each with a bright yellow pointed tip and small pink basal blush, central golden-yellow throat with an upright burgundy staminal column. Fine wiry reddish stems and tiny narrow leaves. Make this clearly asymmetric five-lobed flower itself the main rounded character body, tiny brown eyes on lower white lobes and tiny smile beneath throat; fine side branch and tiny basal green leaf feet. Preserve coral upper pair, white-yellow lower trio and upright burgundy column. No broad poppy bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/42929353",
+      "https://www.inaturalist.org/photos/68167772"
+    ],
+    "sha256": "a765fe5b4207ead30806550d6905552bcc48fd3dc328b7fb55c459a824740327",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 55,
+    "assetID": "a-30bac594f412",
+    "scientificName": "Pellaea bridgesii",
+    "name": "Bridges' cliffbrake",
+    "kind": "plant",
+    "sourceRecordID": 104514097,
+    "filename": "a-30bac594f412.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Blue-gray rounded oval fern pinnules",
+      "Dark branching wiry petioles"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Pellaea bridgesii (Bridges' cliffbrake). Transform Image 1 completely into this distinct species. Bridges' cliffbrake as in Image 2: many upright narrow pinnate fronds bearing closely packed paired blue-gray frosted leathery leaflets, each a rounded-triangular to oval fan shape, on thin dark reddish-brown petioles. Make whole character a compact upright tuft of these bluish featherlike fronds, front central two thick leaflets carry tiny eyes and a smile on green stem base, two frond sprays gesture as arms and dark curled petiole feet. Strong powder-blue color, close-set paired rounded triangular leaflets, no generic serrated fern or flower.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/104514097",
+      "https://www.inaturalist.org/photos/175139750"
+    ],
+    "sha256": "4c75572a0c5b010ff35f7aaca1cb1ee2b57c792218d94b6ad0adee0dccba02eb",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 57,
+    "assetID": "a-c5268b02347a",
+    "scientificName": "Baileya multiradiata",
+    "name": "Desert Marigold",
+    "kind": "flower",
+    "sourceRecordID": 99497825,
+    "filename": "a-c5268b02347a.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Numerous narrow lemon-yellow ray florets",
+      "Gray-white woolly deeply lobed basal leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Baileya multiradiata (Desert Marigold). Transform Image 1 completely into this distinct species. Desert marigold: bright lemon-yellow daisy flower with very numerous slender ray florets around round yellow central disc, strongly gray-white woolly lobed basal leaves. Build circular sunny flower body with dense fine yellow ray-petal fringe, central golden disc face, two woolly silver lobed leaves for arms and leaf feet. Distinct dense narrow rays and whitish cut foliage, not broad sunflower rays or poppy bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/99497825",
+      "https://www.inaturalist.org/photos/165874705"
+    ],
+    "sha256": "1538d600c5c0a646d2d6a4e7aa7621b4d5978269d4129c269cccdd2ab4510f84",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 60,
+    "assetID": "a-d6bbd603adb9",
+    "scientificName": "Asclepias cordifolia",
+    "name": "heart-leaf milkweed",
+    "kind": "flower",
+    "sourceRecordID": 56348191,
+    "filename": "a-d6bbd603adb9.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Opposite blue-gray heart-shaped leaves",
+      "Wine-red reflexed petals with pale pink hood crowns"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Asclepias cordifolia (heart-leaf milkweed). Transform Image 1 completely into this distinct species. Heart-leaf milkweed: opposite large heart-shaped blue-gray green leaves on reddish stems; spherical umbels of dark wine-red reflexed flowers with pale pink upright hood crowns. Build whole character from two overlapping heart-shaped gray-green leaves with tiny face on central heart leaf and two side heart-leaf gestures, with one compact burgundy-and-pale-pink flower umbel above; burgundy petals reflex backwards and pale hood structures stand inward. Short red stem feet. Not a pink rose.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/56348191",
+      "https://www.inaturalist.org/photos/89790310"
+    ],
+    "sha256": "2622582f9bcac0403d461f95c79b16a906ca626723ad99c27564ae7a818a2041",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 61,
+    "assetID": "a-cc84432b13e1",
+    "scientificName": "Toxicodendron diversilobum",
+    "name": "Pacific poison oak",
+    "kind": "plant",
+    "sourceRecordID": 243932748,
+    "filename": "a-cc84432b13e1.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Autumn scarlet-red groups of three rounded-lobed leaflets",
+      "Green-to-russet colors and slender woody stems"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Toxicodendron diversilobum (Pacific poison oak). Transform Image 1 completely into this distinct species. Pacific poison oak matching source's vivid autumn form: compound leaves in groups of exactly THREE broad rounded-lobed oak-like leaflets, predominantly scarlet-red and deep rose with a few yellow-green patches, on thin woody climbing stems. Make character an entire broad trifoliate cluster, one large central scarlet lobed leaflet with tiny eyes and smile, two smaller side red lobed leaflets gesture, thin woody stem feet; second smaller trifoliate group behind. Clear three-leaflet structure and rounded lobes. No acorns or oak-tree crown.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/243932748",
+      "https://www.inaturalist.org/photos/435042337"
+    ],
+    "sha256": "fb5cbaf6c5d3e6c9cb74b88a5890a8fb5bd4b9602397896e8f90f9a429a91f36",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 66,
+    "assetID": "a-61f6c5fe2cfa",
+    "scientificName": "Aquilegia formosa",
+    "name": "western columbine",
+    "kind": "flower",
+    "sourceRecordID": 31383198,
+    "filename": "a-61f6c5fe2cfa.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Five red backward spurs and pointed sepals",
+      "Yellow lower petals and projecting stamens; lobed leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Aquilegia formosa (western columbine). Transform Image 1 completely into this distinct species. Western columbine: nodding flower with five long red backward spurs, five red pointed sepals and five short yellow petal blades forming a bright yellow lower skirt, projecting yellow stamens; compound three-lobed soft green leaves. Build whole character from one pendulous red-and-yellow columbine blossom with spurs curling upward/back and yellow petal skirt beneath, eyes on front red floral surface, lobed leaf arms/feet. Preserve distinctive five spurs, no poppy cup.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/31383198",
+      "https://www.inaturalist.org/photos/49113556"
+    ],
+    "sha256": "dc267881ed5237ad973ee23e818e98e2b91167e1ba0c3f2f019edf0d3b77d8e8",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 69,
+    "assetID": "a-3baa9b9d2ea0",
+    "scientificName": "Arctostaphylos glauca",
+    "name": "Big Berry Manzanita",
+    "kind": "plant",
+    "sourceRecordID": 256531320,
+    "filename": "a-3baa9b9d2ea0.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Sculptural twisting cinnamon-red bark over gray weathered wood",
+      "Broad glaucous oval leaves and large russet berries"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Arctostaphylos glauca (Big Berry Manzanita). Transform Image 1 completely into this distinct species. Big berry manzanita: feature the smooth sculptural reddish-cinnamon twisting trunk and peeling bark over gray weathered wood seen in Image 2. Build stout plant character whose entire compact body IS a twisted cinnamon-red trunk with gray weathered wood patches, tiny brown eyes and smile integrated into bark; curved red branch arms and rootlike feet, small sparse crown of broad glaucous blue-gray oval leaves and a few large rounded russet berries. Emphasize polished twisting red/gray bark and stout silhouette, distinct from fine-branching Eastwood manzanita.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/256531320",
+      "https://www.inaturalist.org/photos/459969877"
+    ],
+    "sha256": "865804c4a31ccb26d92e007a9e0c6ec7654ba8c345da9ab73d387e1f80882ce4",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 71,
+    "assetID": "a-5053899b8b7a",
+    "scientificName": "Trifolium depauperatum",
+    "name": "cowbag clover",
+    "kind": "flower",
+    "sourceRecordID": 73269813,
+    "filename": "a-5053899b8b7a.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Inflated veined vivid rose-pink pouches with dark plum tips",
+      "Small pea-flower tips and trifoliate leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Trifolium depauperatum (cowbag clover). Transform Image 1 completely into this distinct species. Cowbag clover matching Image 2: small clustered inflorescence of vivid rose-pink inflated saclike flowers, each pouch has a long narrowed upright pointed tip in dark plum-purple; papery translucent veining on rounded pink flower pouches. Three small green oval leaflets below. Build entire character body from a compact head of these vivid pink inflated pouches and dark upright tips, tiny eyes on front pouch and tiny smile, small trifoliate leaf arms and green stem feet. Distinct baggy pouch cluster silhouette, no generic rose bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/73269813",
+      "https://www.inaturalist.org/photos/119600080"
+    ],
+    "sha256": "91e712483e6589416dec17f8da30b6ca9c1467c6f70816e1c90185ad9fdf0786",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 75,
+    "assetID": "a-ed4eb78be719",
+    "scientificName": "Sedum spathulifolium",
+    "name": "Broad-leaved Stonecrop",
+    "kind": "plant",
+    "sourceRecordID": 115013259,
+    "filename": "a-ed4eb78be719.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Broad powdery silver-blue spoon leaves with rosy margins",
+      "Low rosette and small yellow star flowers"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Sedum spathulifolium (Broad-leaved Stonecrop). Transform Image 1 completely into this distinct species. Broad-leaved stonecrop: powdery pale blue-gray succulent rosettes of thick broad flattened spoon-shaped leaves, often rosy red along edges; small bright yellow five-pointed star flowers on an offset short stalk. Build a low broad succulent rosette character with chunky overlapping silver-blue spoon leaves and red margins, eyes on a front leaf and tiny smile, side rosette gesture and short rounded leaf feet. Include a small off-center yellow star-flower cluster. Not long pointed echeveria leaves.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/115013259",
+      "https://www.inaturalist.org/photos/194153065"
+    ],
+    "sha256": "38accaa8ce71d58684875bcc1e0b1d66d4514e81f09539210bd4af705aee1286",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 77,
+    "assetID": "a-357d866a3e55",
+    "scientificName": "Adelinia grandis",
+    "name": "Pacific hound's tongue",
+    "kind": "flower",
+    "sourceRecordID": 148927161,
+    "filename": "a-357d866a3e55.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Broad fuzzy strongly veined leaves",
+      "Blue five-lobed flowers with white center rings and pink buds"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Adelinia grandis (Pacific hound's tongue). Transform Image 1 completely into this distinct species. Pacific hound's tongue: broad softly fuzzy oval green leaves with deeply etched veins; curled inflorescence of vivid blue five-lobed flowers with white central rings and pink-purple buds. Build body as a large plush broad oval leaf with tiny eyes and smile, two smaller veined leaves as arms/feet and a curled side stem bearing separate blue five-lobed flower discs with white eyes and pink buds. Preserve broad veiny leaf identity rather than flower cup.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/148927161",
+      "https://www.inaturalist.org/photos/256549652"
+    ],
+    "sha256": "f6bc3d5a70e82d43115e677897603da8e034bcabad4e7ac76f9220a23775d708",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 80,
+    "assetID": "a-1727e901e5ec",
+    "scientificName": "Lupinus bicolor",
+    "name": "Miniature Lupine",
+    "kind": "flower",
+    "sourceRecordID": 41089404,
+    "filename": "a-1727e901e5ec.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Tiered blue-violet and white pea flowers",
+      "Palmate fans of narrow fingerlike leaflets"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Lupinus bicolor (Miniature Lupine). Transform Image 1 completely into this distinct species. Miniature lupine: small upright spike of blue-violet and white bicolored pea-shaped flowers; palmate leaves with several narrow finger-shaped leaflets. Build compact flower-spike body with tiered pea blooms, white banner patches and violet-blue wings, tiny friendly face integrated into one central banner petal; two palmately divided leaf fans gesture as arms and a basal leaf fan makes feet. No daisy or poppy bowl.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/41089404",
+      "https://www.inaturalist.org/photos/65151484"
+    ],
+    "sha256": "ad3cfc651ab3eeb78643ba653bca30008045087fcb98e4fb9d0dd62eca0e6e38",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 81,
+    "assetID": "a-e1c28b9ae694",
+    "scientificName": "Larrea tridentata",
+    "name": "Creosote Bush",
+    "kind": "plant",
+    "sourceRecordID": 29896764,
+    "filename": "a-e1c28b9ae694.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Paired small glossy olive leaflets",
+      "Yellow five-petal flowers and fuzzy creamy seed balls"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Larrea tridentata (Creosote Bush). Transform Image 1 completely into this distinct species. Creosote bush: thin woody branched shrub with pairs of small glossy olive-green oval leaflets, yellow five-petal flowers and fuzzy round creamy-white seed balls. Build a compact open-branched shrub character with friendly eyes in a thickened short woody stem junction, small paired shiny olive leaflets, one bright yellow five-petal flower and two cottony cream seed balls, bent twig arms and root feet. Preserve sparse shrub silhouette and paired leaves.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/29896764",
+      "https://www.inaturalist.org/photos/46682014"
+    ],
+    "sha256": "be539c095f293c13c56557d89940fcfe57c377938cd446e5bd0e72116f1b82c0",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 86,
+    "assetID": "a-4bd6aafef2e9",
+    "scientificName": "Hemitomes congestum",
+    "name": "gnome plant",
+    "kind": "flower",
+    "sourceRecordID": 51307549,
+    "filename": "a-4bd6aafef2e9.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Pale pink-cream fleshy stems and scale bracts",
+      "Dense waxy cream flower cluster; no green foliage"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Hemitomes congestum (gnome plant). Transform Image 1 completely into this distinct species. Gnome plant: low dense cluster of fleshy pale pink-cream upright stems without any green leaves; rounded overlapping scale bracts, short clustered waxy cream bells with pink flush and pale yellow centers. Build a squat rounded cluster-body of cream and blush-pink fleshy scales and cup/bell flowers, two tiny eyes and smile on a front pink scale, two short scale-covered side shoots and stubby pink stem feet. Entirely pale non-green mycoheterotrophic plant; no hat or mushroom cap.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/51307549",
+      "https://www.inaturalist.org/photos/83188392"
+    ],
+    "sha256": "2e20d76c0738cb60048ae15d1b7e3e52ceb3b027563f96dbe0449bdf62ad8408",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 89,
+    "assetID": "a-1297a71be182",
+    "scientificName": "Eriogonum fasciculatum polifolium",
+    "name": "Eastern Mojave Buckwheat",
+    "kind": "plant",
+    "sourceRecordID": 8460464,
+    "filename": "a-1297a71be182.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Clustered narrow gray-green leaves",
+      "Rounded rusty cinnamon-brown spent flower heads on radiating stems"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Eriogonum fasciculatum polifolium (Eastern Mojave Buckwheat). Transform Image 1 completely into this distinct species. Eastern Mojave buckwheat matching the source's mature dry-season form: compact shrub of tiny clustered narrow gray-green needlelike leaves, fine radiating branched reddish-brown woody stems, and numerous rounded rusty cinnamon-brown spent flower heads. Build rounded airy shrub character with small brown eyes and smile integrated into central thickened reddish branch junction, needle-leaf clusters low down and many small rusty brown beadlike flower heads on radiating stems; twig feet. Keep mostly rusty-brown heads exactly like Image 2, at most one tiny pale pink fresh head. Preserve airy branching silhouette and gray narrow foliage.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/8460464",
+      "https://www.inaturalist.org/photos/11277285"
+    ],
+    "sha256": "78024bebb40d8425f9b3dcbbf8252a29785339c44a9bd0469eabd284fc0729bf",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 91,
+    "assetID": "a-c8bb2a0c3fb8",
+    "scientificName": "Claytonia perfoliata",
+    "name": "miner's lettuce",
+    "kind": "flower",
+    "sourceRecordID": 148368326,
+    "filename": "a-c8bb2a0c3fb8.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Circular perfoliate saucer leaf around central stem",
+      "Tiny white five-petal flowers and succulent basal leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Claytonia perfoliata (miner's lettuce). Transform Image 1 completely into this distinct species. Miner's lettuce: a succulent green circular saucer-shaped fused leaf completely encircles a central stem, which passes through center and bears a short cluster of tiny white five-petal flowers; broad spoon basal leaves. Build body as a tilted round bright-green perfoliate leaf saucer with tiny eyes and smile along front rim, flowering stem unmistakably through its center, small white star flowers above and two spoon-shaped green leaf feet. Unique disc-leaf silhouette, no poppy cup.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/148368326",
+      "https://www.inaturalist.org/photos/255485521"
+    ],
+    "sha256": "44e1af2b98b95482ebe67b6be5c078f29ce924a83abfb4dd69c04aacf04278e7",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 95,
+    "assetID": "a-0e1fdbb6ad03",
+    "scientificName": "Ferocactus cylindraceus",
+    "name": "California Barrel Cactus",
+    "kind": "plant",
+    "sourceRecordID": 221666816,
+    "filename": "a-0e1fdbb6ad03.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Deep vertical green barrel ribs",
+      "Curved red-gold spines at pale areoles; yellow crown flowers"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Ferocactus cylindraceus (California Barrel Cactus). Transform Image 1 completely into this distinct species. California barrel cactus: upright thick green cylindrical barrel with deep vertical ribs, dense curved reddish and golden radial spines arising from regularly spaced pale areoles, small yellow flowers near crown. Build character from one squat ribbed barrel body, small brown friendly eyes between front ribs and tiny smile, softened sculpted reddish curved spines, little crown ring of yellow blooms; two tiny basal cactus offsets act as feet. No generic saguaro arms, no pot or scenery.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/221666816",
+      "https://www.inaturalist.org/photos/392568218"
+    ],
+    "sha256": "30b1bd587ad3439e3b6bac0b98a71e5a13f1811c4d6787a57c87d43ed81f8a78",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  },
+  {
+    "index": 97,
+    "assetID": "a-573652262751",
+    "scientificName": "Papaver californicum",
+    "name": "fire poppy",
+    "kind": "flower",
+    "sourceRecordID": 77041999,
+    "filename": "a-573652262751.png",
+    "status": "ready",
+    "generationMethod": "Built-in imagegen",
+    "traits": [
+      "Four crinkled orange petals with ivory-white marbling and margins",
+      "Green central ovary, yellow-brown stamens and lobed leaves"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: NatureRelay single square transparent collectible character PNG. Input images: Image 1 is the edit target and style A material/face reference; Image 2 is a supporting biological reference photograph of Papaver californicum (fire poppy). Transform Image 1 completely into this distinct species. Fire poppy matching this unusual source specimen exactly: FOUR broad thin crinkled petals make an open shallow saucer, warm orange with irregular broad ivory-white marbling and white margins; central bright green ovary with yellow-brown stamens. Body IS this shallow four-petal variegated blossom, tiny eyes and smile on front orange-white petal, deeply lobed soft green leaf arms and feet and a small oval bud. Preserve the orange-and-ivory mottled pattern and green center of Image 2. Do not copy plain solid-orange deep California poppy cup; no invented black basal spots.. Match the real reference morphology and color while using the cozy warm lighting and tactile matte sculpted soft-vinyl 3D material of Image 1. Two small brown friendly eyes and a tiny smile, chunky rounded collectible silhouette. The whole body IS the plant or flower, not a generic humanoid wearing a flower hat; replace every poppy shape not appropriate to this species. Single full character entirely visible, centered at about 80% of the square canvas, clean generous transparent margin on all sides. Genuine transparent alpha, no floor or cast backdrop. No scenery, pot, hands from photograph, text, logos, watermark, border or extra characters.",
+    "generatedOriginalPath": "[local-generation-file-omitted]",
+    "sourceURLs": [
+      "https://www.inaturalist.org/observations/77041999",
+      "https://www.inaturalist.org/photos/125990073"
+    ],
+    "sha256": "4925a476483638afe3e7284d4b7e0fb9007461e8eee9a1a3e776ef34175a7e0d",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ]
+  }
+]

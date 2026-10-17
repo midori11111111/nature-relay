@@ -1,0 +1,102 @@
+[
+  {
+    "index": 87,
+    "assetID": "a-b1e7d3d88c68",
+    "scientificName": "Pseudotsuga menziesii",
+    "name": "Douglas-fir",
+    "kind": "tree",
+    "sourceRecordID": 233405199,
+    "filename": "a-b1e7d3d88c68.png",
+    "status": "ready",
+    "traits": [
+      "Short individually attached bright-green needles",
+      "Graceful drooping branch tips",
+      "Pendant cones with distinctive three-pronged bracts",
+      "Pointed cinnamon buds and gray-brown trunk"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into Douglas-fir (Pseudotsuga menziesii). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole DOUGLAS-FIR tree-body: short furrowed gray-brown trunk with face, root feet and twig hands, compact conical crown of graceful slightly DROOPING branch tips. Many short individually attached flattened bright green needles distributed around slender twigs, not bundled pine needles. Three dangling small tan brown cones have conspicuous THREE-PRONGED bracts protruding between scales like little mouse back feet and tail. Those three-pronged bracts are essential and visibly readable. A couple slender pointed cinnamon buds. Distinct from upright-coned grand fir. Composition: exactly one entire character in three-quarter front view, centered about 75–80 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout. Keep the surface and silhouette clean and softly sculpted like Image 1, with grouped forms rather than individually photorealistic fine hair or foliage.",
+    "referencedImagePaths": [
+      "DesignConcepts/poppy-v1/a-flower-cup.png",
+      "Resources/CaliforniaCatalog/photos/inat-233405199-414801101.jpeg"
+    ],
+    "sourcePhotoInspected": true,
+    "generationMethod": "Built-in image generation",
+    "visualReview": "Accepted: short bright green individually attached needles, draping twigs, hanging cones with protruding bracts and pointed cinnamon buds; full tree body visible.",
+    "originalGeneratedFile": "[local-generation-file-omitted]"
+  },
+  {
+    "index": 93,
+    "assetID": "a-40f7758de9ea",
+    "scientificName": "Lasiurus cinereus cinereus",
+    "name": "North American Hoary Bat",
+    "kind": "other",
+    "sourceRecordID": 246395471,
+    "filename": "a-40f7758de9ea.png",
+    "status": "ready",
+    "traits": [
+      "Silver-white frosted gray-brown fur",
+      "Thick yellow-gold collar and dark muzzle",
+      "Short rounded dark-rimmed ears",
+      "Two finger-supported brown membranous wings"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into North American Hoary Bat (Lasiurus cinereus cinereus). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A single NORTH AMERICAN HOARY BAT, Lasiurus cinereus: small compact round furred bat body with a thick yellow-gold collar around a dark brown muzzle, densely silver-white FROSTED gray-brown fur on back and head as Image 2. Short rounded dark-rimmed ears, small brown eyes and tiny kind smile. Two broad brown membranous wings extend gently outward like a welcoming hug, clearly supported by elongated finger bones with a small thumb claw, scalloped trailing edges, tiny feet and short tail membrane. Fully visible wings folded enough to keep a rounded cute silhouette. Preserve the hoary frosting and yellow collar; no vampire fangs, horns, costume, human hands or extra wings. Composition: exactly one entire character in three-quarter front view, centered about 75–80 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout. Keep the surface and silhouette clean and softly sculpted like Image 1, with grouped forms rather than individually photorealistic fine hair or foliage.",
+    "referencedImagePaths": [
+      "DesignConcepts/poppy-v1/a-flower-cup.png",
+      "Resources/CaliforniaCatalog/photos/inat-246395471-439864278.jpeg"
+    ],
+    "sourcePhotoInspected": true,
+    "generationMethod": "Built-in image generation",
+    "visualReview": "Accepted: silver-frosted gray-brown fur, gold collar, dark muzzle, rounded ears, brown finger-supported membrane wings, visible feet; no human/glove background.",
+    "originalGeneratedFile": "[local-generation-file-omitted]"
+  },
+  {
+    "index": 94,
+    "assetID": "a-1ed3877f9843",
+    "scientificName": "Pinus monophylla",
+    "name": "singleleaf pinyon",
+    "kind": "tree",
+    "sourceRecordID": 147811975,
+    "filename": "a-1ed3877f9843.png",
+    "status": "ready",
+    "traits": [
+      "Short stiff blue-gray-green solitary needles",
+      "Rounded compact irregular crown",
+      "Squat brown cones with thick smooth scales",
+      "Large tan pine nuts and gnarled gray-brown bark"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into singleleaf pinyon (Pinus monophylla). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole SINGLELEAF PINYON pine tree-body: squat gnarled gray-brown bark trunk with face, root feet and twig hands. Rounded compact dense crown of stiff SHORT blue-gray-green needles, each needle emerges SINGLY rather than paired or three/five in bundles, clearly separated on branchlets like source. A few small squat rounded brown cones with thick smooth woody scales opening to show large pale tan pine nuts. Irregular low broad silhouette. Short thick solitary gray needles are the key diagnostic, not long wispy bundles or flat fir combs. Composition: exactly one entire character in three-quarter front view, centered about 75–80 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout. Keep the surface and silhouette clean and softly sculpted like Image 1, with grouped forms rather than individually photorealistic fine foliage. Leave a clear visible transparent margin all around the entire character.",
+    "referencedImagePaths": [
+      "DesignConcepts/poppy-v1/a-flower-cup.png",
+      "Resources/CaliforniaCatalog/photos/inat-147811975-254412424.jpeg"
+    ],
+    "sourcePhotoInspected": true,
+    "generationMethod": "Built-in image generation",
+    "visualReview": "Accepted: compact irregular blue-gray crown of short individually attached needles, squat cones with tan pine nuts, gnarled gray bark, full root feet. Distinct from fir/pine variations.",
+    "originalGeneratedFile": "[local-generation-file-omitted]"
+  },
+  {
+    "index": 98,
+    "assetID": "a-4b33e3ef45c8",
+    "scientificName": "Acer negundo",
+    "name": "box elder",
+    "kind": "tree",
+    "sourceRecordID": 105170824,
+    "filename": "a-4b33e3ef45c8.png",
+    "status": "ready",
+    "traits": [
+      "Compound leaves with three to five toothed leaflets",
+      "Golden yellow autumn foliage",
+      "Pink-red young twigs and leaf stalks",
+      "Paired V-shaped winged samaras"
+    ],
+    "prompt": "Use case: style-transfer. Asset type: one premium native iOS nature companion, transparent PNG. Image 1 is the edit target and exact approved A-style character reference: transform its entire organism into box elder (Acer negundo). Image 2 is the ACTUAL biological reference: follow that species anatomy, colors and identifying patterns; do not copy its background. Preserve Image 1's cozy soft lighting, tactile sculpted matte soft-vinyl / fine velvety 3D surface, friendly small brown oval eyes with highlights and tiny happy smile, appealing compact rounded proportions, subtle warm blush. Species anatomy: A small whole BOX ELDER maple tree-body: short gray-brown trunk face, root feet and twig hands, open rounded crown on red-pink young twigs. Clearly PINNATELY COMPOUND leaves, each stem has THREE to FIVE broad irregularly toothed and sometimes shallowly lobed leaflets, source golden yellow autumn leaf color mixed with a little green. Several paired V-shaped tan winged SAMARAS hanging in clusters. Match the source's broad asymmetrical toothed leaflets and red leaf stalks. Do not make single palmate maple leaves, acorns or generic puff foliage. Composition: exactly one entire character in three-quarter front view, centered about 75–80 percent of square canvas with generous transparent margins all around; every leaf, limb, ear, tail and wing must fit uncut. Real clean transparent alpha background. No scenery, ground, floor shadow plane, pot, pedestal, text, letters, watermark, border, accessories or generic blob wearing a species costume. No leftover poppy petals or orange flower cup. The character body IS this organism. Keep recognizable anatomy, charming and sculpted, not a photorealistic wildlife cutout. Keep the surface and silhouette clean and softly sculpted like Image 1, with grouped forms rather than individually photorealistic fine foliage. Leave a clear visible transparent margin all around the entire character.",
+    "referencedImagePaths": [
+      "DesignConcepts/poppy-v1/a-flower-cup.png",
+      "Resources/CaliforniaCatalog/photos/inat-105170824-176400722.jpg"
+    ],
+    "sourcePhotoInspected": true,
+    "generationMethod": "Built-in image generation",
+    "visualReview": "Accepted: distinct broad golden three-to-five leaflet compound clusters, red-pink stalks, paired V-shaped winged samaras, gray-brown trunk and full root feet.",
+    "originalGeneratedFile": "[local-generation-file-omitted]"
+  }
+]
